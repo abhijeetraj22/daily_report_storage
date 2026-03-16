@@ -1,0 +1,60 @@
+{
+  "date": "13-03-2026",
+  "day": "FRIDAY",
+  "rows": [
+    {
+      "type": "section",
+      "cells": [
+        "",
+        "EXAMINATION WORKS",
+        "",
+        ""
+      ]
+    },
+    {
+      "type": "data",
+      "cells": [
+        "1",
+        "hARE kRISHNA",
+        "",
+        ""
+      ]
+    },
+    {
+      "type": "data",
+      "cells": [
+        "2",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "type": "data",
+      "cells": [
+        "3",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "type": "section",
+      "cells": [
+        "",
+        "OTHER WORKS",
+        "",
+        ""
+      ]
+    },
+    {
+      "type": "data",
+      "cells": [
+        "1",
+        "",
+        "",
+        ""
+      ]
+    }
+  ]
+}
