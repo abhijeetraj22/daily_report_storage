@@ -1,0 +1,60 @@
+{
+  "date": "16-03-2026",
+  "day": "MONDAY",
+  "rows": [
+    {
+      "type": "section",
+      "cells": [
+        "",
+        "EXAMINATION WORKS",
+        "",
+        ""
+      ]
+    },
+    {
+      "type": "data",
+      "cells": [
+        "1",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "type": "data",
+      "cells": [
+        "2",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "type": "data",
+      "cells": [
+        "3",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "type": "section",
+      "cells": [
+        "",
+        "OTHER WORKS",
+        "",
+        ""
+      ]
+    },
+    {
+      "type": "data",
+      "cells": [
+        "1",
+        "",
+        "",
+        ""
+      ]
+    }
+  ]
+}
