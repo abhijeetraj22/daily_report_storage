@@ -1,0 +1,60 @@
+{
+  "date": "12-03-2026",
+  "day": "THURSDAY",
+  "rows": [
+    {
+      "type": "section",
+      "cells": [
+        "",
+        "EXAMINATION WORKS",
+        "",
+        ""
+      ]
+    },
+    {
+      "type": "data",
+      "cells": [
+        "1",
+        "Radhe Radhe ",
+        "",
+        ""
+      ]
+    },
+    {
+      "type": "data",
+      "cells": [
+        "2",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "type": "data",
+      "cells": [
+        "3",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "type": "section",
+      "cells": [
+        "",
+        "OTHER WORKS",
+        "",
+        ""
+      ]
+    },
+    {
+      "type": "data",
+      "cells": [
+        "1",
+        "",
+        "",
+        ""
+      ]
+    }
+  ]
+}
