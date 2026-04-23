@@ -30,15 +30,6 @@
       ]
     },
     {
-      "type": "data",
-      "cells": [
-        "3",
-        "",
-        "",
-        ""
-      ]
-    },
-    {
       "type": "section",
       "cells": [
         "",
@@ -60,7 +51,7 @@
       "type": "data",
       "cells": [
         "2",
-        "Bus Scanning (R-66)\n\n",
+        "Bus Scanning (R-66)\n",
         "",
         ""
       ]
