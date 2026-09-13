@@ -1,0 +1,25 @@
+{
+  "date": "13-09-2026",
+  "day": "SUNDAY",
+  "rows": [
+    {
+      "type": "section",
+      "cells": [
+        "",
+        "MAJOR TASK COMPLETED",
+        "",
+        ""
+      ]
+    },
+    {
+      "type": "data",
+      "cells": [
+        "1",
+        "RADHE RADHE",
+        "",
+        ""
+      ],
+      "icon": "mdi:clipboard-text"
+    }
+  ]
+}
