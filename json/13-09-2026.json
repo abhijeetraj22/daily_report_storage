@@ -31,6 +31,16 @@
         ""
       ],
       "icon": "mdi:printer"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "3",
+        "Given tasks",
+        "",
+        ""
+      ],
+      "icon": "mdi:account-multiple"
     }
   ]
 }
