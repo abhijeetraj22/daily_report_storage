@@ -6,7 +6,7 @@
       "type": "section",
       "cells": [
         "",
-        "MAJOR TASK COMPLETED",
+        "DESCRIPTION",
         "",
         ""
       ]
@@ -20,6 +20,16 @@
         ""
       ],
       "icon": "mdi:clipboard-text"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "2",
+        "PRINT HARE KRISHNA",
+        "",
+        ""
+      ],
+      "icon": "mdi:printer"
     }
   ]
 }
