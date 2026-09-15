@@ -2,6 +2,7 @@
   "date": "15-09-2026",
   "day": "TUESDAY",
   "title": "DESCRIPTION",
+  "source": "",
   "rows": [
     {
       "type": "section",
@@ -79,7 +80,7 @@
         "",
         ""
       ],
-      "icon": "mdi:clipboard-text"
+      "icon": "mdi:account-multiple-check"
     },
     {
       "type": "data",
@@ -99,7 +100,7 @@
         "",
         ""
       ],
-      "icon": "mdi:clipboard-text"
+      "icon": "mdi:notebook-multiple"
     },
     {
       "type": "data",
