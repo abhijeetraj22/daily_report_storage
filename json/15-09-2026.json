@@ -2,7 +2,7 @@
   "date": "15-09-2026",
   "day": "TUESDAY",
   "title": "DESCRIPTION",
-  "source": "",
+  "source": "*EXAMINATION WORKS*\n\n* Formatted the MATHS question paper for grade 1 & 2 for the POMT Exams\n\n* Given the Grade X Marksheet certificate to the student.(ID-2179, 3802)\n\n* Distributed the answer-copy bundles to the teacher to distribute to the students for the Mid-Term Exam.\n\n* Collected the same number of answer-copy bundles from the teacher.\n\n* Uploaded & updated the student's (Birth, caste & Transfer certificate) on the Eduletics portal.\n\n*OTHER WORKS*\n\n* Dispersal Duty.\n\n* Bus Duty & Scanning (R-59)\n\n* Collected notebooks from the following classes:\n* 5 DELTA [SANSKRIT]\n* 5 OMEGA [ICT]\n* 6 SIGMA [HINDI]\n* 7 IOTA [SANSKRIT]\n* 7 IOTA [PHYSICS]\n* 7 SIGMA [SANSKRIT]\n* 8 IOTA [MATHS]\n* 8 OMICRON [SANSKRIT]\n* 8 SIGMA [MATHS]\n* 8 ZETA [SST]\n\n* Collected homework feedback from the first-floor classes and shared it via a Google Form.\n\n* Prepared the Biometric attendance record of Teaching, Non-Teaching, Admin, Transport, Guard and 4th grade employee given by Principal Sir.",
   "rows": [
     {
       "type": "section",
@@ -31,7 +31,7 @@
         "",
         ""
       ],
-      "icon": "mdi:file-chart"
+      "icon": "token-branded:cere"
     },
     {
       "type": "data",
@@ -110,7 +110,7 @@
         "",
         ""
       ],
-      "icon": "mdi:clipboard-text"
+      "icon": "mdi:form-select"
     },
     {
       "type": "data",
