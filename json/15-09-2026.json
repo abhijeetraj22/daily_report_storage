@@ -21,6 +21,7 @@
         "",
         ""
       ],
+      "bullets": [],
       "icon": "mdi:file-document-edit"
     },
     {
@@ -31,6 +32,7 @@
         "",
         ""
       ],
+      "bullets": [],
       "icon": "ri:clipboard-fill"
     },
     {
@@ -41,6 +43,7 @@
         "",
         ""
       ],
+      "bullets": [],
       "icon": "mdi:account-multiple"
     },
     {
@@ -51,6 +54,7 @@
         "",
         ""
       ],
+      "bullets": [],
       "icon": "mdi:account-tie"
     },
     {
@@ -61,6 +65,7 @@
         "",
         ""
       ],
+      "bullets": [],
       "icon": "mdi:certificate"
     },
     {
@@ -80,6 +85,7 @@
         "",
         ""
       ],
+      "bullets": [],
       "icon": "mdi:account-multiple-check"
     },
     {
@@ -90,15 +96,28 @@
         "",
         ""
       ],
+      "bullets": [],
       "icon": "mdi:bus"
     },
     {
       "type": "data",
       "cells": [
         "3",
-        "Collected notebooks from the following classes:\n* 5 DELTA [SANSKRIT]\n* 5 OMEGA [ICT]\n* 6 SIGMA [HINDI]\n* 7 IOTA [SANSKRIT]\n* 7 IOTA [PHYSICS]\n* 7 SIGMA [SANSKRIT]\n* 8 IOTA [MATHS]\n* 8 OMICRON [SANSKRIT]\n* 8 SIGMA [MATHS]\n* 8 ZETA [SST]",
+        "Collected notebooks from the following classes:",
         "",
         ""
+      ],
+      "bullets": [
+        "5 DELTA [SANSKRIT]",
+        "5 OMEGA [ICT]",
+        "6 SIGMA [HINDI]",
+        "7 IOTA [SANSKRIT]",
+        "7 IOTA [PHYSICS]",
+        "7 SIGMA [SANSKRIT]",
+        "8 IOTA [MATHS]",
+        "8 OMICRON [SANSKRIT]",
+        "8 SIGMA [MATHS]",
+        "8 ZETA [SST]"
       ],
       "icon": "mdi:notebook-multiple"
     },
@@ -110,6 +129,7 @@
         "",
         ""
       ],
+      "bullets": [],
       "icon": "mdi:form-select"
     },
     {
@@ -120,6 +140,7 @@
         "",
         ""
       ],
+      "bullets": [],
       "icon": "mdi:fingerprint"
     }
   ]
