@@ -1,6 +1,7 @@
 {
   "date": "15-09-2026",
   "day": "TUESDAY",
+  "title": "DESCRIPTION",
   "rows": [
     {
       "type": "section",
@@ -15,37 +16,41 @@
       "type": "data",
       "cells": [
         "1",
-        "Formatted the MATHS question paper for grade 1 & 2 for the POMT Exams\n",
+        "Formatted the MATHS question paper for grade 1 & 2 for the POMT Exams",
         "",
         ""
-      ]
+      ],
+      "icon": "mdi:file-document-edit"
     },
     {
       "type": "data",
       "cells": [
         "2",
-        "Given the Grade X Marksheet certificate to the student.(ID-2179, 3802)\n",
+        "Given the Grade X Marksheet certificate to the student.(ID-2179, 3802)",
         "",
         ""
-      ]
+      ],
+      "icon": "mdi:file-chart"
     },
     {
       "type": "data",
       "cells": [
         "3",
-        "Distributed the answer-copy bundles to the teacher to distribute to the students for the Mid-Term Exam.\n",
+        "Distributed the answer-copy bundles to the teacher to distribute to the students for the Mid-Term Exam.",
         "",
         ""
-      ]
+      ],
+      "icon": "mdi:account-multiple"
     },
     {
       "type": "data",
       "cells": [
         "4",
-        "Collected the same number of answer-copy bundles from the teacher.\n",
+        "Collected the same number of answer-copy bundles from the teacher.",
         "",
         ""
-      ]
+      ],
+      "icon": "mdi:account-tie"
     },
     {
       "type": "data",
@@ -54,7 +59,8 @@
         "Uploaded & updated the student's (Birth, caste & Transfer certificate) on the Eduletics portal.",
         "",
         ""
-      ]
+      ],
+      "icon": "mdi:certificate"
     },
     {
       "type": "section",
@@ -69,19 +75,21 @@
       "type": "data",
       "cells": [
         "1",
-        "Dispersal Duty.\n",
+        "Dispersal Duty.",
         "",
         ""
-      ]
+      ],
+      "icon": "mdi:clipboard-text"
     },
     {
       "type": "data",
       "cells": [
         "2",
-        "Bus Duty & Scanning (R-59)\n",
+        "Bus Duty & Scanning (R-59)",
         "",
         ""
-      ]
+      ],
+      "icon": "mdi:bus"
     },
     {
       "type": "data",
@@ -90,7 +98,8 @@
         "Collected notebooks from the following classes:\n* 5 DELTA [SANSKRIT]\n* 5 OMEGA [ICT]\n* 6 SIGMA [HINDI]\n* 7 IOTA [SANSKRIT]\n* 7 IOTA [PHYSICS]\n* 7 SIGMA [SANSKRIT]\n* 8 IOTA [MATHS]\n* 8 OMICRON [SANSKRIT]\n* 8 SIGMA [MATHS]\n* 8 ZETA [SST]",
         "",
         ""
-      ]
+      ],
+      "icon": "mdi:clipboard-text"
     },
     {
       "type": "data",
@@ -99,7 +108,8 @@
         "Collected homework feedback from the first-floor classes and shared it via a Google Form.",
         "",
         ""
-      ]
+      ],
+      "icon": "mdi:clipboard-text"
     },
     {
       "type": "data",
@@ -108,7 +118,8 @@
         "Prepared the Biometric attendance record of Teaching, Non-Teaching, Admin, Transport, Guard and 4th grade employee given by Principal Sir.",
         "",
         ""
-      ]
+      ],
+      "icon": "mdi:fingerprint"
     }
   ]
 }
