@@ -1,0 +1,153 @@
+{
+  "date": "16-09-2026",
+  "day": "WEDNESDAY",
+  "title": "DESCRIPTION",
+  "source": "*EXAMINATION WORKS:*\n\n* Formatted the MATHS question paper for grade 3 & 4 for the POMT Exams\n* Given the Grade X Marksheet certificate to the student.(ID-2368)\n* Verified the few Transfer certificate.\n* Correction & printed the Transfer certificate (ID-2251)\n* Distributed the answer-copy bundles to the teacher to distribute to the students for the Mid-Term Exam.\n* Collected the same number of answer-copy bundles from the teacher.\n* Uploaded & updated the student's (Birth & Transfer certificate) on the Eduletics portal.\n\n*OTHER WORK*\n\n* Dispersal Duty.\n* Prepared the Biometric attendance record of Teaching, Non-Teaching, Admin, Transport, Guard and 4th grade employee given by Principal Sir.\n* Collected homework feedback from the first-floor classes and shared it via a Google Form.\n* Collected notebooks from the following classes:\n* 5 ZETA [SCIENCE]\n* 6 OMEGA [HINDI]\n* 6 ZETA [MATHS]\n* 7 OMEGA [SST]\n* 8 IOTA [BIOLOGY]",
+  "rows": [
+    {
+      "type": "section",
+      "cells": [
+        "",
+        "EXAMINATION WORKS:",
+        "",
+        ""
+      ]
+    },
+    {
+      "type": "data",
+      "cells": [
+        "1",
+        "Formatted the MATHS question paper for grade 3 & 4 for the POMT Exams",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:file-document-edit"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "2",
+        "Given the Grade X Marksheet certificate to the student.(ID-2368)",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:file-chart"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "3",
+        "Verified the few Transfer certificate.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:certificate"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "4",
+        "Correction & printed the Transfer certificate (ID-2251)",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:certificate"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "5",
+        "Distributed the answer-copy bundles to the teacher to distribute to the students for the Mid-Term Exam.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:account-multiple"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "6",
+        "Collected the same number of answer-copy bundles from the teacher.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:account-tie"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "7",
+        "Uploaded & updated the student's (Birth & Transfer certificate) on the Eduletics portal.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:certificate"
+    },
+    {
+      "type": "section",
+      "cells": [
+        "",
+        "OTHER WORK",
+        "",
+        ""
+      ]
+    },
+    {
+      "type": "data",
+      "cells": [
+        "1",
+        "Dispersal Duty.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:account-multiple-check"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "2",
+        "Prepared the Biometric attendance record of Teaching, Non-Teaching, Admin, Transport, Guard and 4th grade employee given by Principal Sir.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:fingerprint"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "3",
+        "Collected homework feedback from the first-floor classes and shared it via a Google Form.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:form-select"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "4",
+        "Collected notebooks from the following classes:",
+        "",
+        ""
+      ],
+      "bullets": [
+        "5 ZETA [SCIENCE]",
+        "6 OMEGA [HINDI]",
+        "6 ZETA [MATHS]",
+        "7 OMEGA [SST]",
+        "8 IOTA [BIOLOGY]"
+      ],
+      "icon": "mdi:notebook-multiple"
+    }
+  ]
+}
