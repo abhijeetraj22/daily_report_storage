@@ -33,7 +33,7 @@
         ""
       ],
       "bullets": [],
-      "icon": "mdi:certificate"
+      "icon": "mdi:check"
     },
     {
       "type": "data",
@@ -44,7 +44,7 @@
         ""
       ],
       "bullets": [],
-      "icon": "mdi:certificate"
+      "icon": "mdi:file-document-edit"
     },
     {
       "type": "data",
@@ -88,7 +88,7 @@
         ""
       ],
       "bullets": [],
-      "icon": "mdi:certificate"
+      "icon": "mdi:cloud-upload"
     },
     {
       "type": "section",
@@ -125,7 +125,7 @@
         "7 OMEGA [SST]",
         "8 IOTA [BIOLOGY]"
       ],
-      "icon": "mdi:archive-arrow-down"
+      "icon": "mdi:notebook-check-outline"
     },
     {
       "type": "data",
