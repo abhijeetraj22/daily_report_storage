@@ -1,6 +1,8 @@
 {
   "date": "04-08-2026",
   "day": "TUESDAY",
+  "title": "DESCRIPTION",
+  "source": "*EXAMINATION WORKS*\n\n* Notebooks were collected from the following represented classes: \n\n* 5 OMICRON [SST]\n\n* 5 SIGMA [HINDI]\n\n* 6 OMEGA [MATHS]\n\n* 6 IOTA [SST]\n\n* 7 SIGMA [SANSKRIT]\n\n* 7 OMEGA [MATHS]\n\n* 7 ZETA [ELA]\n\n* 8 SIGMA [PHYSICS]\n\n* 8 ZETA [ELA]\n\n* 8 OMEGA [SST]\n\n* Updated and uploaded the few student documents (Birth, Caste Certificate and Aadhaar) on the Eduletics portal.\n\n* Final Verification and correction of G-IX registration data for 15 students with the help of Vivek sir.\n\n* Worked on Photography attendance sheet of CBSE Registration Grade IX Delta & Iota with Saurav Soni Sir\n\n*OTHER WORKS*\n\n* Dispersal Duty.\n\n* Bus Scanning Duty (R-44)\n\n* Prepared the Biometric attendance record of Teaching, Non-Teaching, Admin, Transport, Guard and 4th grade employee given by Principal Sir.\n\n* Collected homework feedback from the first-floor classes and shared it via a Google Form.",
   "rows": [
     {
       "type": "section",
@@ -15,28 +17,45 @@
       "type": "data",
       "cells": [
         "1",
-        "Notebooks were collected from the following represented classes: \n* 5 OMICRON-(SST),\n* 5 SIGMA-(HINDI),\n* 6 OMEGA-(MATHS),\n* 6 IOTA-(SST),\n* 7 SIGMA-(SANSKRIT),\n* 7 OMEGA-(MATHS),\n* 7 ZETA-(ELA),\n* 8 SIGMA-(PHYSICS),\n* 8 ZETA-(ELA),\n* 8 OMEGA-(SST)\n",
+        "Notebooks were collected from the following represented classes:",
         "",
         ""
-      ]
+      ],
+      "bullets": [
+        "5 OMICRON [SST]",
+        "5 SIGMA [HINDI]",
+        "6 OMEGA [MATHS]",
+        "6 IOTA [SST]",
+        "7 SIGMA [SANSKRIT]",
+        "7 OMEGA [MATHS]",
+        "7 ZETA [ELA]",
+        "8 SIGMA [PHYSICS]",
+        "8 ZETA [ELA]",
+        "8 OMEGA [SST]"
+      ],
+      "icon": "mdi:notebook"
     },
     {
       "type": "data",
       "cells": [
         "2",
-        "Updated and uploaded the few student documents (Birth, Caste Certificate and Aadhaar) on the Eduletics portal.\n",
+        "Updated and uploaded the few student documents (Birth, Caste Certificate and Aadhaar) on the Eduletics portal.",
         "",
         ""
-      ]
+      ],
+      "bullets": [],
+      "icon": "mdi:cloud-upload"
     },
     {
       "type": "data",
       "cells": [
         "3",
-        "Final Verification and correction of G-IX registration data for 15 students with the help of Vivek sir.\n",
+        "Final Verification and correction of G-IX registration data for 15 students with the help of Vivek sir.",
         "",
         ""
-      ]
+      ],
+      "bullets": [],
+      "icon": "mdi:account-school"
     },
     {
       "type": "data",
@@ -45,7 +64,9 @@
         "Worked on Photography attendance sheet of CBSE Registration Grade IX Delta & Iota with Saurav Soni Sir",
         "",
         ""
-      ]
+      ],
+      "bullets": [],
+      "icon": "mdi:calendar-check"
     },
     {
       "type": "section",
@@ -60,28 +81,34 @@
       "type": "data",
       "cells": [
         "1",
-        "Dispersal Duty.\n",
+        "Dispersal Duty.",
         "",
         ""
-      ]
+      ],
+      "bullets": [],
+      "icon": "mdi:account-multiple-check"
     },
     {
       "type": "data",
       "cells": [
         "2",
-        "Bus Scanning Duty (R-44)\n",
+        "Bus Scanning Duty (R-44)",
         "",
         ""
-      ]
+      ],
+      "bullets": [],
+      "icon": "mdi:bus"
     },
     {
       "type": "data",
       "cells": [
         "3",
-        "Prepared the Biometric attendance record of Teaching, Non-Teaching, Admin, Transport, Guard and 4th grade employee given by Principal Sir.\n",
+        "Prepared the Biometric attendance record of Teaching, Non-Teaching, Admin, Transport, Guard and 4th grade employee given by Principal Sir.",
         "",
         ""
-      ]
+      ],
+      "bullets": [],
+      "icon": "mdi:fingerprint"
     },
     {
       "type": "data",
@@ -90,7 +117,9 @@
         "Collected homework feedback from the first-floor classes and shared it via a Google Form.",
         "",
         ""
-      ]
+      ],
+      "bullets": [],
+      "icon": "mdi:form-select"
     }
   ]
 }
