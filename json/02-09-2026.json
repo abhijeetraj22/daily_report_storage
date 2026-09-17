@@ -1,6 +1,8 @@
 {
   "date": "02-09-2026",
   "day": "WEDNESDAY",
+  "title": "DESCRIPTION",
+  "source": "*EXAMINATION WORKS*\n\n* Distributed the Q/A papers for the Mid-Term Examination.\n\n* Performed Floor Duty during the Mid-Term Examination.\n\n* Collected the answer copies after the Mid-Term Examination.\n\n* Given the Mid Term answer bundle to few teachers for review.\n\n* Arranged the CBSE marksheets roll-number-wise.\n\n*OTHER WORKS*\n\n* Dispersal Duty.\n\n* Prepared the biometric attendance records of Teaching, Non-Teaching, Admin, Transport, Security Guard, and 4th Grade employees as instructed by the Principal Sir.\n\n* Updated the Homework Follow-up Google Sheet as instructed by the Principal Sir.\n\n* Updated the Google sheet to reflect the submission status of the Mid Term bundle.",
   "rows": [
     {
       "type": "section",
@@ -15,37 +17,45 @@
       "type": "data",
       "cells": [
         "1",
-        "Distributed the Q/A papers for the Mid-Term Examination.\n",
+        "Distributed the Q/A papers for the Mid-Term Examination.",
         "",
         ""
-      ]
+      ],
+      "bullets": [],
+      "icon": "material-symbols:sms"
     },
     {
       "type": "data",
       "cells": [
         "2",
-        "Performed Floor Duty during the Mid-Term Examination.\n",
+        "Performed Floor Duty during the Mid-Term Examination.",
         "",
         ""
-      ]
+      ],
+      "bullets": [],
+      "icon": "mdi:file-document-edit"
     },
     {
       "type": "data",
       "cells": [
         "3",
-        "Collected the answer copies after the Mid-Term Examination.\n",
+        "Collected the answer copies after the Mid-Term Examination.",
         "",
         ""
-      ]
+      ],
+      "bullets": [],
+      "icon": "mdi:file-document-edit"
     },
     {
       "type": "data",
       "cells": [
         "4",
-        "Given the Mid Term answer bundle to few teachers for review.\n",
+        "Given the Mid Term answer bundle to few teachers for review.",
         "",
         ""
-      ]
+      ],
+      "bullets": [],
+      "icon": "mdi:account-tie"
     },
     {
       "type": "data",
@@ -54,7 +64,9 @@
         "Arranged the CBSE marksheets roll-number-wise.",
         "",
         ""
-      ]
+      ],
+      "bullets": [],
+      "icon": "mdi:file-chart"
     },
     {
       "type": "section",
@@ -69,10 +81,12 @@
       "type": "data",
       "cells": [
         "1",
-        "Dispersal Duty.\n",
+        "Dispersal Duty.",
         "",
         ""
-      ]
+      ],
+      "bullets": [],
+      "icon": "mdi:account-multiple-check"
     },
     {
       "type": "data",
@@ -81,7 +95,9 @@
         "Prepared the biometric attendance records of Teaching, Non-Teaching, Admin, Transport, Security Guard, and 4th Grade employees as instructed by the Principal Sir.",
         "",
         ""
-      ]
+      ],
+      "bullets": [],
+      "icon": "mdi:fingerprint"
     },
     {
       "type": "data",
@@ -90,7 +106,9 @@
         "Updated the Homework Follow-up Google Sheet as instructed by the Principal Sir.",
         "",
         ""
-      ]
+      ],
+      "bullets": [],
+      "icon": "mdi:account-tie"
     },
     {
       "type": "data",
@@ -99,7 +117,9 @@
         "Updated the Google sheet to reflect the submission status of the Mid Term bundle.",
         "",
         ""
-      ]
+      ],
+      "bullets": [],
+      "icon": "mdi:package-variant-closed"
     }
   ]
 }
