@@ -1,6 +1,8 @@
 {
   "date": "17-09-2026",
   "day": "THURSDAY",
+  "title": "DESCRIPTION",
+  "source": "*EXAMINATION WORKS:*\n\n* Formatted the MATHS question paper for grade 3 & 4 for the POMT Exams\n\n* Verified the few Transfer certificate.\n\n* Correction & printed the Transfer certificate (ID-2251)\n\n* Distributed the answer-copy bundles to the teacher to distribute to the students for the Mid-Term Exam.\n\n* Collected the same number of answer-copy bundles from the teacher.\n\n* Given the Grade X Marksheet certificate to the student.(ID-2368)\n\n* Uploaded & updated the student's (Birth & Transfer certificate) on the Eduletics portal.\n\n*OTHER WORK*\n\n* Dispersal Duty.\n\n* Collected notebooks from the following classes:\n\n* 5 ZETA [SCIENCE]\n\n* 6 OMEGA [HINDI]\n\n* 6 ZETA [MATHS]\n\n* 7 OMEGA [SST]\n\n* 8 IOTA [BIOLOGY]\n\n* Prepared the Biometric attendance record of Teaching, Non-Teaching, Admin, Transport, Guard and 4th grade employee given by Principal Sir.\n\n* Collected homework feedback from the first-floor classes and shared it via a Google Form.",
   "rows": [
     {
       "type": "section",
@@ -19,7 +21,8 @@
         "",
         ""
       ],
-      "bullets": []
+      "bullets": [],
+      "icon": "mdi:file-document-edit"
     },
     {
       "type": "data",
@@ -29,7 +32,8 @@
         "",
         ""
       ],
-      "bullets": []
+      "bullets": [],
+      "icon": "mdi:certificate"
     },
     {
       "type": "data",
@@ -39,7 +43,8 @@
         "",
         ""
       ],
-      "bullets": []
+      "bullets": [],
+      "icon": "mdi:certificate"
     },
     {
       "type": "data",
@@ -49,7 +54,8 @@
         "",
         ""
       ],
-      "bullets": []
+      "bullets": [],
+      "icon": "mdi:account-multiple"
     },
     {
       "type": "data",
@@ -59,7 +65,8 @@
         "",
         ""
       ],
-      "bullets": []
+      "bullets": [],
+      "icon": "mdi:archive-arrow-down"
     },
     {
       "type": "data",
@@ -69,7 +76,8 @@
         "",
         ""
       ],
-      "bullets": []
+      "bullets": [],
+      "icon": "mdi:file-chart"
     },
     {
       "type": "data",
@@ -79,7 +87,8 @@
         "",
         ""
       ],
-      "bullets": []
+      "bullets": [],
+      "icon": "mdi:certificate"
     },
     {
       "type": "section",
@@ -98,7 +107,8 @@
         "",
         ""
       ],
-      "bullets": []
+      "bullets": [],
+      "icon": "mdi:account-multiple-check"
     },
     {
       "type": "data",
@@ -114,7 +124,8 @@
         "6 ZETA [MATHS]",
         "7 OMEGA [SST]",
         "8 IOTA [BIOLOGY]"
-      ]
+      ],
+      "icon": "mdi:archive-arrow-down"
     },
     {
       "type": "data",
@@ -124,7 +135,8 @@
         "",
         ""
       ],
-      "bullets": []
+      "bullets": [],
+      "icon": "mdi:fingerprint"
     },
     {
       "type": "data",
@@ -134,7 +146,8 @@
         "",
         ""
       ],
-      "bullets": []
+      "bullets": [],
+      "icon": "mdi:message-text"
     }
   ]
 }
