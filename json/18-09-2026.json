@@ -1,0 +1,136 @@
+{
+  "date": "18-09-2026",
+  "day": "FRIDAY",
+  "title": "DESCRIPTION",
+  "source": "*EXAMINATION WORKS:*\n\n* Formatted the HINDI & ELA question paper for grade 2, 3 & 4 for the POMT Exams\n* Given the Grade X Marksheet certificate to the student.(ID-2363, 4256, 1931, 4205, 1751, 5039, 1321)\n* Given the Pre-Mid Term answer copy to the teacher for PTM.\n* Printed the ELA & MATHS question paper for grade 3 & 4 for the HOD's proofing\n* Given the Grade XII Marksheet certificate to the student.(ID922)\n* Verified the few Transfer certificate.\n* Correction & printed the Transfer certificate (ID-2368)\n* Distributed the answer-copy bundles to the teacher Grade - 9 to 12 for the Mid-Term Exam PTM.\n* Collected the same number of answer-copy bundles from the teacher.\n\n*OTHER WORK:*\n\n* Prepared the Biometric attendance record of Teaching, Non-Teaching, Admin, Transport, Guard and 4th grade employee given by Principal Sir.",
+  "rows": [
+    {
+      "type": "section",
+      "cells": [
+        "",
+        "EXAMINATION WORKS:",
+        "",
+        ""
+      ]
+    },
+    {
+      "type": "data",
+      "cells": [
+        "1",
+        "Formatted the HINDI & ELA question paper for grade 2, 3 & 4 for the POMT Exams",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:file-document-edit"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "2",
+        "Given the Grade X Marksheet certificate to the student.(ID-2363, 4256, 1931, 4205, 1751, 5039, 1321)",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:file-chart"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "3",
+        "Given the Pre-Mid Term answer copy to the teacher for PTM.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:account-tie"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "4",
+        "Printed the ELA & MATHS question paper for grade 3 & 4 for the HOD's proofing",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:printer"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "5",
+        "Given the Grade XII Marksheet certificate to the student.(ID922)",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:file-chart"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "6",
+        "Verified the few Transfer certificate.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:check"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "7",
+        "Correction & printed the Transfer certificate (ID-2368)",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:file-document-edit"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "8",
+        "Distributed the answer-copy bundles to the teacher Grade - 9 to 12 for the Mid-Term Exam PTM.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:account-multiple"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "9",
+        "Collected the same number of answer-copy bundles from the teacher.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:archive-arrow-down"
+    },
+    {
+      "type": "section",
+      "cells": [
+        "",
+        "OTHER WORK:",
+        "",
+        ""
+      ]
+    },
+    {
+      "type": "data",
+      "cells": [
+        "1",
+        "Prepared the Biometric attendance record of Teaching, Non-Teaching, Admin, Transport, Guard and 4th grade employee given by Principal Sir.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:fingerprint"
+    }
+  ]
+}
