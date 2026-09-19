@@ -1,0 +1,103 @@
+{
+  "date": "19-09-2026",
+  "day": "SATURDAY",
+  "title": "DESCRIPTION",
+  "source": "\n*EXAMINATION WORKS:*\n\n* Formatted the EVS question paper for grade 2 for the POMT Exams\n* Distributed the Q/A for today Exam.\n* Given the Grade X Marksheet certificate to the student.(ID-4475, 3685, 2135, 2731, 2732, 3062, 3878, 2213)\n* Uploaded & updated the student's (Aadhar, Caste, Transfer and Birth certificate) on the Eduletics portal.(approx-15)\n* Printed the EVS question paper for grade 1 & 2 and ELA & MATHS question paper for grade 1 & 2 for the HOD's proofing\n* Updated the Excel sheet with the Grade IX registration data.\n\n*OTHER WORK*\n\n* Prepared the Biometric attendance record of Teaching, Non-Teaching, Admin, Transport, Guard and 4th grade employee given by Principal Sir.",
+  "rows": [
+    {
+      "type": "section",
+      "cells": [
+        "",
+        "EXAMINATION WORKS:",
+        "",
+        ""
+      ]
+    },
+    {
+      "type": "data",
+      "cells": [
+        "1",
+        "Formatted the EVS question paper for grade 2 for the POMT Exams",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:file-document-edit"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "2",
+        "Distributed the Q/A for today Exam.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:account-multiple"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "3",
+        "Given the Grade X Marksheet certificate to the student.(ID-4475, 3685, 2135, 2731, 2732, 3062, 3878, 2213)",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:file-chart"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "4",
+        "Uploaded & updated the student's (Aadhar, Caste, Transfer and Birth certificate) on the Eduletics portal.(approx-15)",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:cloud-upload"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "5",
+        "Printed the EVS question paper for grade 1 & 2 and ELA & MATHS question paper for grade 1 & 2 for the HOD's proofing",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:printer"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "6",
+        "Updated the Excel sheet with the Grade IX registration data.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:clipboard-text"
+    },
+    {
+      "type": "section",
+      "cells": [
+        "",
+        "OTHER WORK",
+        "",
+        ""
+      ]
+    },
+    {
+      "type": "data",
+      "cells": [
+        "1",
+        "Prepared the Biometric attendance record of Teaching, Non-Teaching, Admin, Transport, Guard and 4th grade employee given by Principal Sir.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:fingerprint"
+    }
+  ]
+}
