@@ -1,0 +1,163 @@
+{
+  "date": "21-09-2026",
+  "day": "MONDAY",
+  "title": "DESCRIPTION",
+  "source": "*EXAMINATION WORK:*\n\n* Formatted the EVS question paper for grade 3 & 4 for the POMT Exams\n* Given the Grade X Marksheet certificate to the student.(ID-2526, 4106)\n* Verified a Sports Bonafide certificate\n* Printed the EVS question paper for grade 3 & 4 and HINDI question paper for grade 1 to 4 for the HOD's proofing\n* Verified a Transfer certificate(ID-2213)\n* Exported student data (ID-2526) to Dropbox for the UDISE portal.\n* Uploaded & updated the student's (Birth , Caste, Aadhar & Transfer certificate) on the Eduletics portal.(approx -21)\n* Updated the Excel sheet with the Grade IX registration data.\n\n*OTHER WORK:*\n\n* Dispersal Duty.\n* Prepared the Biometric attendance record of Teaching, Non-Teaching, Admin, Transport, Guard and 4th grade employee given by Principal Sir.\n* Collected homework feedback from the first-floor classes and shared it via a Google Form.\n* Collected notebooks from the following classes:\n* 5 DELTA [SCIENCE]\n* 6 OMEGA [MATHS]\n* 7 ZETA [BIOLOGY]\n* 8 DELTA [CHEMISTRY]",
+  "rows": [
+    {
+      "type": "section",
+      "cells": [
+        "",
+        "EXAMINATION WORK:",
+        "",
+        ""
+      ]
+    },
+    {
+      "type": "data",
+      "cells": [
+        "1",
+        "Formatted the EVS question paper for grade 3 & 4 for the POMT Exams",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:file-document-edit"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "2",
+        "Given the Grade X Marksheet certificate to the student.(ID-2526, 4106)",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:file-chart"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "3",
+        "Verified a Sports Bonafide certificate",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:certificate"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "4",
+        "Printed the EVS question paper for grade 3 & 4 and HINDI question paper for grade 1 to 4 for the HOD's proofing",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:printer"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "5",
+        "Verified a Transfer certificate(ID-2213)",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:certificate-check"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "6",
+        "Exported student data (ID-2526) to Dropbox for the UDISE portal.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:account-school"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "7",
+        "Uploaded & updated the student's (Birth , Caste, Aadhar & Transfer certificate) on the Eduletics portal.(approx -21)",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:cloud-upload"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "8",
+        "Updated the Excel sheet with the Grade IX registration data.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:table-edit"
+    },
+    {
+      "type": "section",
+      "cells": [
+        "",
+        "OTHER WORK:",
+        "",
+        ""
+      ]
+    },
+    {
+      "type": "data",
+      "cells": [
+        "1",
+        "Dispersal Duty.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:account-multiple-check"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "2",
+        "Prepared the Biometric attendance record of Teaching, Non-Teaching, Admin, Transport, Guard and 4th grade employee given by Principal Sir.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:fingerprint"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "3",
+        "Collected homework feedback from the first-floor classes and shared it via a Google Form.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:clipboard-text-clock-outline"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "4",
+        "Collected notebooks from the following classes:",
+        "",
+        ""
+      ],
+      "bullets": [
+        "5 DELTA [SCIENCE]",
+        "6 OMEGA [MATHS]",
+        "7 ZETA [BIOLOGY]",
+        "8 DELTA [CHEMISTRY]"
+      ],
+      "icon": "mdi:notebook-check-outline"
+    }
+  ]
+}
