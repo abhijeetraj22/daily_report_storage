@@ -1,0 +1,168 @@
+{
+  "date": "23-09-2026",
+  "day": "WEDNESDAY",
+  "title": "DESCRIPTION",
+  "source": "*Daily Report*\nDate: 23.09.2026\n\n*EXAMINATION WORKS:*\n\n* Given the Grade X Marksheet certificate to the student.(ID-4303, 2065, 5423)\n* Verified a Sports Bonafide certificate.\n* Printed a Inter School Kabaddi Competition form,\n* Verified a Transfer certificate.\n* Correction & printed the Transfer certificate (ID-1321)\n* Uploaded & updated the student's (Birth , Aafitdavit, Aadhar, & Caste certificate) on the Eduletics portal.\n* Updated the Excel sheet with the Grade IX registration data.\n\n*OTHER WORK*\n\n* Dispersal Duty.\n* Bus Duty & Scanning (R-52)\n* Prepared the Biometric attendance record of Teaching, Non-Teaching, Admin, Transport, Guard and 4th grade employee given by Principal Sir.\n* Collected homework feedback from the first-floor classes and shared it via a Google Form.\n* Collected notebooks from the following classes:\n* 5 DELTA [SST]\n* 5 OMEGA [SCIENCE]\n* 5 ZETA [SST]\n* 7 DELTA [BIOLOGY]\n* 7 OMEGA [ICT]\n* 7 SIGMA [HINDI]\n* 7 SIGMA [PHYSICS]\n* 8 SIGMA [HINDI]\n* 8 ZETA [SANSKRIT]",
+  "rows": [
+    {
+      "type": "section",
+      "cells": [
+        "",
+        "EXAMINATION WORKS:",
+        "",
+        ""
+      ]
+    },
+    {
+      "type": "data",
+      "cells": [
+        "1",
+        "Given the Grade X Marksheet certificate to the student.(ID-4303, 2065, 5423)",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:file-chart"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "2",
+        "Verified a Sports Bonafide certificate.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:certificate"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "3",
+        "Printed a Inter School Kabaddi Competition form,",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:printer"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "4",
+        "Verified a Transfer certificate.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:certificate-outline"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "5",
+        "Correction & printed the Transfer certificate (ID-1321)",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:file-document-edit"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "6",
+        "Uploaded & updated the student's (Birth , Aafitdavit, Aadhar, & Caste certificate) on the Eduletics portal.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:cloud-upload"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "7",
+        "Updated the Excel sheet with the Grade IX registration data.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:table-edit"
+    },
+    {
+      "type": "section",
+      "cells": [
+        "",
+        "OTHER WORK",
+        "",
+        ""
+      ]
+    },
+    {
+      "type": "data",
+      "cells": [
+        "1",
+        "Dispersal Duty.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:account-multiple-check"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "2",
+        "Bus Duty & Scanning (R-52)",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:bus"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "3",
+        "Prepared the Biometric attendance record of Teaching, Non-Teaching, Admin, Transport, Guard and 4th grade employee given by Principal Sir.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:fingerprint"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "4",
+        "Collected homework feedback from the first-floor classes and shared it via a Google Form.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:clipboard-text-clock-outline"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "5",
+        "Collected notebooks from the following classes:",
+        "",
+        ""
+      ],
+      "bullets": [
+        "5 DELTA [SST]",
+        "5 OMEGA [SCIENCE]",
+        "5 ZETA [SST]",
+        "7 DELTA [BIOLOGY]",
+        "7 OMEGA [ICT]",
+        "7 SIGMA [HINDI]",
+        "7 SIGMA [PHYSICS]",
+        "8 SIGMA [HINDI]",
+        "8 ZETA [SANSKRIT]"
+      ],
+      "icon": "mdi:notebook-check-outline"
+    }
+  ]
+}
