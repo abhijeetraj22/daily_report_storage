@@ -1,0 +1,177 @@
+{
+  "date": "24-09-2026",
+  "day": "THURSDAY",
+  "title": "DESCRIPTION",
+  "source": "*EXAMINATION WORKS:*\n\n* Given the Grade X Marksheet certificate to the student.(ID-2042, 1313)\n* Formatted  the SANSKRIT question paper for grade 10 for the Dream-Big Exams.\n* Printed the Sanskrit question paper for grade X for the HOD's proofing\n* Verified the few National School Games Bonafide certificate.(approx-09)\n* Uploaded & updated the student's (Birth , Aadhar, & Caste certificate) on the Eduletics portal.(approx-06)\n* Updated the Excel sheet with the Grade IX registration data.\n* Find the Pre-Mid-Term marksheets as requested in the parents’ application (IDs: 5251, 2860, and 5654).\n* Find the Mid-Term examination answer sheets as requested in the parents’ applications.(Id - 2058, 2730)\n* Updated the Excel sheet with the Grade IX registration data.\n\n*OTHER WORK:*\n\n* Dispersal Duty.\n* Prepared the Biometric attendance record of Teaching, Non-Teaching, Admin, Transport, Guard and 4th grade employee given by Principal Sir.\n* Collected homework feedback from the first-floor classes and shared it via a Google Form.\n* Collected notebooks from the following classes:\n* 5 SIGMA [SCIENCE]\n* 6 OMEGA [SST]\n* 6 SIGMA [ICT]\n* 7 OMICRON [ICT]\n* 8 OMICRON [ELA]\n* 8 SIGMA [SST]\n* 8 ZETA [CHEMISTRY]",
+  "rows": [
+    {
+      "type": "section",
+      "cells": [
+        "",
+        "EXAMINATION WORKS:",
+        "",
+        ""
+      ]
+    },
+    {
+      "type": "data",
+      "cells": [
+        "1",
+        "Given the Grade X Marksheet certificate to the student.(ID-2042, 1313)",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:file-chart"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "2",
+        "Formatted  the SANSKRIT question paper for grade 10 for the Dream-Big Exams.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:file-document-edit"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "3",
+        "Printed the Sanskrit question paper for grade X for the HOD's proofing",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:printer"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "4",
+        "Verified the few National School Games Bonafide certificate.(approx-09)",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:certificate"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "5",
+        "Uploaded & updated the student's (Birth , Aadhar, & Caste certificate) on the Eduletics portal.(approx-06)",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:cloud-upload"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "6",
+        "Updated the Excel sheet with the Grade IX registration data.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:table-edit"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "7",
+        "Find the Pre-Mid-Term marksheets as requested in the parents’ application (IDs: 5251, 2860, and 5654).",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:file-chart"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "8",
+        "Find the Mid-Term examination answer sheets as requested in the parents’ applications.(Id - 2058, 2730)",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:file-document-edit"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "9",
+        "Updated the Excel sheet with the Grade IX registration data.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:table-edit"
+    },
+    {
+      "type": "section",
+      "cells": [
+        "",
+        "OTHER WORK:",
+        "",
+        ""
+      ]
+    },
+    {
+      "type": "data",
+      "cells": [
+        "1",
+        "Dispersal Duty.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:account-multiple-check"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "2",
+        "Prepared the Biometric attendance record of Teaching, Non-Teaching, Admin, Transport, Guard and 4th grade employee given by Principal Sir.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:fingerprint"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "3",
+        "Collected homework feedback from the first-floor classes and shared it via a Google Form.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:clipboard-text-clock-outline"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "4",
+        "Collected notebooks from the following classes:",
+        "",
+        ""
+      ],
+      "bullets": [
+        "5 SIGMA [SCIENCE]",
+        "6 OMEGA [SST]",
+        "6 SIGMA [ICT]",
+        "7 OMICRON [ICT]",
+        "8 OMICRON [ELA]",
+        "8 SIGMA [SST]",
+        "8 ZETA [CHEMISTRY]"
+      ],
+      "icon": "mdi:notebook-check-outline"
+    }
+  ]
+}
