@@ -1,0 +1,169 @@
+{
+  "date": "26-09-2026",
+  "day": "SATURDAY",
+  "title": "DESCRIPTION",
+  "source": "*EXAMINATION WORKS:*\n\n* Given the Grade X Marksheet certificate to the student.(ID-1407, 1445)\n* Distributed the Q/A for today Exam.\n* Verified a Transfer certificate.\n* Correction & printed the Transfer certificate (ID-3059)\n* Formatted  the SCIENCE question paper for grade 9 & 10 for the MID-TERM Retest Exams.\n* Printed the SCIENCE question paper for grade 9 & 10 for the MID-TERM Retest Exams.\n* Verified the few National School Games Bonafide certificate.(approx-06)\n* Uploaded & updated the student's (Birth , Aadhar, & Caste certificate) on the Eduletics portal.(approx-11)\n* Updated the Excel sheet with the Grade IX registration data.\n* Updated the teachers data from the Oasis 0.7 portal (approx 18).\n\n\n*OTHER WORK*\n\n* Dispersal Duty.\n* Prepared the Biometric attendance record of Teaching, Non-Teaching, Admin, Transport, Guard and 4th grade employee given by Principal Sir.\n* Collected homework feedback from the first-floor classes and shared it via a Google Form.",
+  "rows": [
+    {
+      "type": "section",
+      "cells": [
+        "",
+        "EXAMINATION WORKS:",
+        "",
+        ""
+      ]
+    },
+    {
+      "type": "data",
+      "cells": [
+        "1",
+        "Given the Grade X Marksheet certificate to the student.(ID-1407, 1445)",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:file-chart"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "2",
+        "Distributed the Q/A for today Exam.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:file-document-send-outline"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "3",
+        "Verified a Transfer certificate.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:certificate-outline"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "4",
+        "Correction & printed the Transfer certificate (ID-3059)",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:file-document-edit"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "5",
+        "Formatted  the SCIENCE question paper for grade 9 & 10 for the MID-TERM Retest Exams.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:file-document-edit"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "6",
+        "Printed the SCIENCE question paper for grade 9 & 10 for the MID-TERM Retest Exams.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:printer"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "7",
+        "Verified the few National School Games Bonafide certificate.(approx-06)",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:certificate"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "8",
+        "Uploaded & updated the student's (Birth , Aadhar, & Caste certificate) on the Eduletics portal.(approx-11)",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:cloud-upload"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "9",
+        "Updated the Excel sheet with the Grade IX registration data.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:table-edit"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "10",
+        "Updated the teachers data from the Oasis 0.7 portal (approx 18).",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:account-tie"
+    },
+    {
+      "type": "section",
+      "cells": [
+        "",
+        "OTHER WORK",
+        "",
+        ""
+      ]
+    },
+    {
+      "type": "data",
+      "cells": [
+        "1",
+        "Dispersal Duty.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:account-multiple-check"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "2",
+        "Prepared the Biometric attendance record of Teaching, Non-Teaching, Admin, Transport, Guard and 4th grade employee given by Principal Sir.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:fingerprint"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "3",
+        "Collected homework feedback from the first-floor classes and shared it via a Google Form.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:clipboard-text-clock-outline"
+    }
+  ]
+}
