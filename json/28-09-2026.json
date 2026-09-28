@@ -1,0 +1,158 @@
+{
+  "date": "28-09-2026",
+  "day": "MONDAY",
+  "title": "DESCRIPTION",
+  "source": "*EXAMINATION WORKS:*\n\n* Given the Grade X Marksheet certificate to the student.(ID-1345, 3269)\n* Verified a Transfer certificate.\n* Correction & printed the Transfer certificate (ID-3269)\n* Formatted the PHONICS question paper for grade K1 for the POST-MID TERM Exams.\n* Verified the National School Games Bonafide certificate\n* Uploaded & updated the student's (Birth , Aadhar, Affidavit & Caste certificate) on the Eduletics portal.(approx-08)\n* Updated the Excel sheet with the Grade IX registration data.\n* Verified the students' data from Maths Standard to Maths Basics with Rajneesh Sir.\n\n\n*OTHER WORK*\n\n* Dispersal Duty.\n* Bus Duty & Scanning (R-59)\n* Prepared the Biometric attendance record of Teaching, Non-Teaching, Admin, Transport, Guard and 4th grade employee given by Principal Sir.\n* Collected homework feedback from the first-floor classes and shared it via a Google Form.",
+  "rows": [
+    {
+      "type": "section",
+      "cells": [
+        "",
+        "EXAMINATION WORKS:",
+        "",
+        ""
+      ]
+    },
+    {
+      "type": "data",
+      "cells": [
+        "1",
+        "Given the Grade X Marksheet certificate to the student.(ID-1345, 3269)",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:file-chart"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "2",
+        "Verified a Transfer certificate.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:certificate-outline"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "3",
+        "Correction & printed the Transfer certificate (ID-3269)",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:file-document-edit"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "4",
+        "Formatted the PHONICS question paper for grade K1 for the POST-MID TERM Exams.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:file-document-edit"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "5",
+        "Verified the National School Games Bonafide certificate",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:certificate"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "6",
+        "Uploaded & updated the student's (Birth , Aadhar, Affidavit & Caste certificate) on the Eduletics portal.(approx-08)",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:cloud-upload"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "7",
+        "Updated the Excel sheet with the Grade IX registration data.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:table-edit"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "8",
+        "Verified the students' data from Maths Standard to Maths Basics with Rajneesh Sir.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:account-school"
+    },
+    {
+      "type": "section",
+      "cells": [
+        "",
+        "OTHER WORK",
+        "",
+        ""
+      ]
+    },
+    {
+      "type": "data",
+      "cells": [
+        "1",
+        "Dispersal Duty.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:account-multiple-check"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "2",
+        "Bus Duty & Scanning (R-59)",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:bus-clock"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "3",
+        "Prepared the Biometric attendance record of Teaching, Non-Teaching, Admin, Transport, Guard and 4th grade employee given by Principal Sir.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:fingerprint"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "4",
+        "Collected homework feedback from the first-floor classes and shared it via a Google Form.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:clipboard-text-clock-outline"
+    }
+  ]
+}
