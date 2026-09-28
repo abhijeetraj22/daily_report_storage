@@ -2,7 +2,7 @@
   "date": "28-09-2026",
   "day": "MONDAY",
   "title": "DESCRIPTION",
-  "source": "*EXAMINATION WORKS:*\n\n* Given the Grade X Marksheet certificate to the student.(ID-1345, 3269)\n* Verified a Transfer certificate.\n* Correction & printed the Transfer certificate (ID-3269)\n* Formatted the PHONICS question paper for grade K1 for the POST-MID TERM Exams.\n* Verified the National School Games Bonafide certificate\n* Uploaded & updated the student's (Birth , Aadhar, Affidavit & Caste certificate) on the Eduletics portal.(approx-08)\n* Updated the Excel sheet with the Grade IX registration data.\n* Verified the students' data from Maths Standard to Maths Basics with Rajneesh Sir.\n\n\n*OTHER WORK*\n\n* Dispersal Duty.\n* Bus Duty & Scanning (R-59)\n* Prepared the Biometric attendance record of Teaching, Non-Teaching, Admin, Transport, Guard and 4th grade employee given by Principal Sir.\n* Collected homework feedback from the first-floor classes and shared it via a Google Form.",
+  "source": "*EXAMINATION WORKS:*\n\n* Given the Grade X Marksheet certificate to the student.(ID-1345, 3269)\n* Verified a Transfer certificate.\n* Correction & printed the Transfer certificate (ID-3269)\n* Formatted the PHONICS question paper for grade K1 for the POST-MID TERM Exams.\n* Verified the National School Games Bonafide certificate\n* Uploaded & updated the student's (Birth , Aadhar, Affidavit & Caste certificate) on the Eduletics portal.(approx-08)\n* Updated the Excel sheet with the Grade IX registration data.\n* Verified the students' data from Maths Standard to Maths Basics with Rajneesh Sir.\n\n\n*OTHER WORK*\n\n* Dispersal Duty.\n* Bus Duty & Scanning (R-59)\n* Prepared the Biometric attendance record of Teaching, Non-Teaching, Admin, Transport, Guard and 4th grade employee given by Principal Sir.\n* Collected homework feedback from the first-floor classes and shared it via a Google Form.\n* Collected notebooks from the following classes:\n* 6 DELTA [SST] \n* 6 IOTA [HINDI] \n* 6 OMEGA [SANSKRIT] \n* 6 OMICRON [SCIENCE] \n* 7 OMICRON [ELA] \n* 8 DELTA [HINDI] \n* 8 IOTA [SANSKRIT] \n* 8 SIGMA [PHYSICS] ",
   "rows": [
     {
       "type": "section",
@@ -153,6 +153,26 @@
       ],
       "bullets": [],
       "icon": "mdi:clipboard-text-clock-outline"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "5",
+        "Collected notebooks from the following classes:",
+        "",
+        ""
+      ],
+      "bullets": [
+        "6 DELTA [SST]",
+        "6 IOTA [HINDI]",
+        "6 OMEGA [SANSKRIT]",
+        "6 OMICRON [SCIENCE]",
+        "7 OMICRON [ELA]",
+        "8 DELTA [HINDI]",
+        "8 IOTA [SANSKRIT]",
+        "8 SIGMA [PHYSICS]"
+      ],
+      "icon": "mdi:notebook-check-outline"
     }
   ]
 }
