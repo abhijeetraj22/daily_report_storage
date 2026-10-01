@@ -1,0 +1,157 @@
+{
+  "date": "01-10-2026",
+  "day": "THURSDAY",
+  "title": "DESCRIPTION",
+  "source": "*EXAMINATION WORKS:*\n\n* Correction the LITERACY, NUMERACY, HINDI, DRAW, ART & CRAFT & PHONICS question paper for grade NUR to K2 for the Post-Mid Term Exam.\n* Printed the Post-Mid Term LITERACY, NUMERACY, HINDI, DRAW, ART & CRAFT & PHONICS questions paper for grade NUR to K2 for the 2nd proofing.\n* Uploaded the student's (Aadhar & Caste certificate) on the Eduletics portal.\n* Give the students' APAAR IDs to their parents.(ID-646, 647, 3469).\n* Scanned the Grade XI MATHS, CHEMISTRY & PHYSICS answer copy (ID-4688) and Grade IX MATHS, CHEMISTRY, PHYSICS, BIOLOGY & SST answer copy (ID-4675) and converted it into a PDF and shared it with Vivek Sir.\n* Given the Grade X Marksheet certificate to the student.(ID-1788)\n* Updated the Excel sheet with the Grade IX registration data.\n\n*OTHER WORK:*\n\n* Dispersal Duty.\n* Prepared the Biometric attendance record of Teaching, Non-Teaching, Admin, Transport, Guard and 4th grade employee given by Principal Sir.\n* Collected homework feedback from the first-floor classes and shared it via a Google Form.\n* Collected notebooks from the following classes:\n* 6 SIGMA [SST]\n* 6 ZETA [SANSKRIT]\n* 7 DELTA [SST]\n* 7 OMEGA [ELA]\n* 7 OMEGA [MATHS]\n* 7 OMICRON [CHEMISTRY]\n* 7 OMICRON [MATHS]\n* 7 SIGMA [CHEMISTRY]\n* 7 ZETA [SANSKRIT]",
+  "rows": [
+    {
+      "type": "section",
+      "cells": [
+        "",
+        "EXAMINATION WORKS:",
+        "",
+        ""
+      ]
+    },
+    {
+      "type": "data",
+      "cells": [
+        "1",
+        "Correction the LITERACY, NUMERACY, HINDI, DRAW, ART & CRAFT & PHONICS question paper for grade NUR to K2 for the Post-Mid Term Exam.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:file-document-edit"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "2",
+        "Printed the Post-Mid Term LITERACY, NUMERACY, HINDI, DRAW, ART & CRAFT & PHONICS questions paper for grade NUR to K2 for the 2nd proofing.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:printer"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "3",
+        "Uploaded the student's (Aadhar & Caste certificate) on the Eduletics portal.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:cloud-upload"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "4",
+        "Give the students' APAAR IDs to their parents.(ID-646, 647, 3469).",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:account-school"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "5",
+        "Scanned the Grade XI MATHS, CHEMISTRY & PHYSICS answer copy (ID-4688) and Grade IX MATHS, CHEMISTRY, PHYSICS, BIOLOGY & SST answer copy (ID-4675) and converted it into a PDF and shared it with Vivek Sir.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:clipboard-text"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "6",
+        "Given the Grade X Marksheet certificate to the student.(ID-1788)",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:file-chart"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "7",
+        "Updated the Excel sheet with the Grade IX registration data.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:table-edit"
+    },
+    {
+      "type": "section",
+      "cells": [
+        "",
+        "OTHER WORK:",
+        "",
+        ""
+      ]
+    },
+    {
+      "type": "data",
+      "cells": [
+        "1",
+        "Dispersal Duty.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:account-multiple-check"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "2",
+        "Prepared the Biometric attendance record of Teaching, Non-Teaching, Admin, Transport, Guard and 4th grade employee given by Principal Sir.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:fingerprint"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "3",
+        "Collected homework feedback from the first-floor classes and shared it via a Google Form.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:clipboard-text-clock-outline"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "4",
+        "Collected notebooks from the following classes:",
+        "",
+        ""
+      ],
+      "bullets": [
+        "6 SIGMA [SST]",
+        "6 ZETA [SANSKRIT]",
+        "7 DELTA [SST]",
+        "7 OMEGA [ELA]",
+        "7 OMEGA [MATHS]",
+        "7 OMICRON [CHEMISTRY]",
+        "7 OMICRON [MATHS]",
+        "7 SIGMA [CHEMISTRY]",
+        "7 ZETA [SANSKRIT]"
+      ],
+      "icon": "mdi:notebook-check-outline"
+    }
+  ]
+}
