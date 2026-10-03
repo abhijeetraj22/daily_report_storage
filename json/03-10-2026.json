@@ -1,0 +1,136 @@
+{
+  "date": "03-10-2026",
+  "day": "SATURDAY",
+  "title": "DESCRIPTION",
+  "source": "*EXAMINATION WORKS:*\n\n\n* Uploaded & updated the student's (Aadhar & Transfer certificate) on the Eduletics portal.\n* Correction & printed the Marksheet certificate (ID-6346,1081)\n* Scanned the Grade IX MATHS, CHEMISTRY, PHYSICS, BIOLOGY & IT answer copy (ID-2322) and converted it into a PDF and shared it with Rajneesh Sir.\n* Successfully obtained Grade XII LOC signatures and verified NO DUES clearance with parents.\n* Collected fees from 17 students and tallied the physical cash.\n* Given the Grade X Marksheet certificate to the student.(ID-4451, 1327, 2333, 1658, 2126)\n* Updated the Excel sheet with the Grade IX registration data.\n\n*OTHER WORK:*\n\n* Dispersal Duty.\n* Prepared the Biometric attendance record of Teaching, Non-Teaching, Admin, Transport, Guard and 4th grade employee given by Principal Sir.\n* Collected homework feedback from the first-floor classes and shared it via a Google Form.",
+  "rows": [
+    {
+      "type": "section",
+      "cells": [
+        "",
+        "EXAMINATION WORKS:",
+        "",
+        ""
+      ]
+    },
+    {
+      "type": "data",
+      "cells": [
+        "1",
+        "Uploaded & updated the student's (Aadhar & Transfer certificate) on the Eduletics portal.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:cloud-upload"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "2",
+        "Correction & printed the Marksheet certificate (ID-6346,1081)",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:file-chart"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "3",
+        "Scanned the Grade IX MATHS, CHEMISTRY, PHYSICS, BIOLOGY & IT answer copy (ID-2322) and converted it into a PDF and shared it with Rajneesh Sir.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:clipboard-text"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "4",
+        "Successfully obtained Grade XII LOC signatures and verified NO DUES clearance with parents.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:clipboard-check"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "5",
+        "Collected fees from 17 students and tallied the physical cash.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:archive-arrow-down"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "6",
+        "Given the Grade X Marksheet certificate to the student.(ID-4451, 1327, 2333, 1658, 2126)",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:file-chart"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "7",
+        "Updated the Excel sheet with the Grade IX registration data.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:table-edit"
+    },
+    {
+      "type": "section",
+      "cells": [
+        "",
+        "OTHER WORK:",
+        "",
+        ""
+      ]
+    },
+    {
+      "type": "data",
+      "cells": [
+        "1",
+        "Dispersal Duty.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:account-multiple-check"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "2",
+        "Prepared the Biometric attendance record of Teaching, Non-Teaching, Admin, Transport, Guard and 4th grade employee given by Principal Sir.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:fingerprint"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "3",
+        "Collected homework feedback from the first-floor classes and shared it via a Google Form.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:clipboard-text-clock-outline"
+    }
+  ]
+}
