@@ -1,0 +1,154 @@
+{
+  "date": "05-10-2026",
+  "day": "MONDAY",
+  "title": "DESCRIPTION",
+  "source": "*EXAMINATION WORKS:*\n\n* Uploaded  the student's (Birth certificate) on the Eduletics portal.\n* Printed the Revision Test Exam Biology, Economics & Maths questions paper for grade X and Maths questions paper for grade XII\n* Collected fees from 31 Grade X students and 6 Grade XII students and tallied the physical cash.\n* Successfully obtained LOC signatures and verified NO DUES clearance with parents (42) for both Grade X and Grade XII students.\n* Prepared Excel sheets for Grade X and verified the Grade XII data with the help of Vivek Sir.\n* Given the Grade X Marksheet certificate to the student.(ID-1895, 1862)\n* Updated the Excel sheet with the Grade IX registration data.\n\n*OTHER WORK:*\n\n* Dispersal Duty.\n* Prepared the Biometric attendance record of Teaching, Non-Teaching, Admin, Transport, Guard and 4th grade employee given by Principal Sir.\n* Collected homework feedback from the first-floor classes and shared it via a Google Form.\n* Collected notebooks from the following classes:\n* 6 DELTA [SANSKRIT]\n* 6 IOTA [MATHS]\n* 6 IOTA [SANSKRIT]\n* 6 OMEGA [SCIENCE]\n* 6 OMICRON [SST]\n* 6 SIGMA [SANSKRIT]",
+  "rows": [
+    {
+      "type": "section",
+      "cells": [
+        "",
+        "EXAMINATION WORKS:",
+        "",
+        ""
+      ]
+    },
+    {
+      "type": "data",
+      "cells": [
+        "1",
+        "Uploaded  the student's (Birth certificate) on the Eduletics portal.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:account-school"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "2",
+        "Printed the Revision Test Exam Biology, Economics & Maths questions paper for grade X and Maths questions paper for grade XII",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:printer"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "3",
+        "Collected fees from 31 Grade X students and 6 Grade XII students and tallied the physical cash.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:archive-arrow-down"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "4",
+        "Successfully obtained LOC signatures and verified NO DUES clearance with parents (42) for both Grade X and Grade XII students.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:account-school"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "5",
+        "Prepared Excel sheets for Grade X and verified the Grade XII data with the help of Vivek Sir.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:clipboard-check"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "6",
+        "Given the Grade X Marksheet certificate to the student.(ID-1895, 1862)",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:file-chart"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "7",
+        "Updated the Excel sheet with the Grade IX registration data.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:table-edit"
+    },
+    {
+      "type": "section",
+      "cells": [
+        "",
+        "OTHER WORK:",
+        "",
+        ""
+      ]
+    },
+    {
+      "type": "data",
+      "cells": [
+        "1",
+        "Dispersal Duty.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:account-multiple-check"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "2",
+        "Prepared the Biometric attendance record of Teaching, Non-Teaching, Admin, Transport, Guard and 4th grade employee given by Principal Sir.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:fingerprint"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "3",
+        "Collected homework feedback from the first-floor classes and shared it via a Google Form.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:clipboard-text-clock-outline"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "4",
+        "Collected notebooks from the following classes:",
+        "",
+        ""
+      ],
+      "bullets": [
+        "6 DELTA [SANSKRIT]",
+        "6 IOTA [MATHS]",
+        "6 IOTA [SANSKRIT]",
+        "6 OMEGA [SCIENCE]",
+        "6 OMICRON [SST]",
+        "6 SIGMA [SANSKRIT]"
+      ],
+      "icon": "mdi:notebook-check-outline"
+    }
+  ]
+}
