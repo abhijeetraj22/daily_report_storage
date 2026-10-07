@@ -2,7 +2,7 @@
   "date": "07-10-2026",
   "day": "WEDNESDAY",
   "title": "DESCRIPTION",
-  "source": "*EXAMINATION WORKS:*\n\n* Uploaded  the student (Birth certificate) on the Eduletics portal.\n* Collected fees from 73 Grade X students and tallied the physical cash.\n* Successfully obtained LOC signatures and verified NO DUES clearance with parents (72) for both Grade X students.\n* Updated the Excel sheets for Grade X.\n\n*OTHER WORK:*\n\n* Prepared the Biometric attendance record of Teaching, Non-Teaching, Admin, Transport, Guard and 4th grade employee given by Principal Sir.\n* Collected homework feedback from the first-floor classes and shared it via a Google Form.\n* Collected notebooks from the following classes:\n* 7 DELTA [ELA]\n* 7 IOTA [SST]\n* 7 OMICRON [SST]\n* 7 SIGMA [ELA]\n* 7 ZETA [ELA]",
+  "source": "*EXAMINATION WORKS:*\n\n* Uploaded  the student (Birth certificate) on the Eduletics portal.\n* Collected fees from 73 Grade X students and tallied the physical cash.\n* Successfully obtained LOC signatures and verified NO DUES clearance with parents (72) for both Grade X students.\n* Updated the Grade X Google Sheet with the latest LOC verification and payment status.\n\n*OTHER WORK:*\n\n* Prepared the Biometric attendance record of Teaching, Non-Teaching, Admin, Transport, Guard and 4th grade employee given by Principal Sir.\n* Collected homework feedback from the first-floor classes and shared it via a Google Form.\n* Collected notebooks from the following classes:\n* 7 DELTA [ELA]\n* 7 IOTA [SST]\n* 7 OMICRON [SST]\n* 7 SIGMA [ELA]\n* 7 ZETA [ELA]",
   "rows": [
     {
       "type": "section",
@@ -50,12 +50,12 @@
       "type": "data",
       "cells": [
         "4",
-        "Updated the Excel sheets for Grade X.",
+        "Updated the Grade X Google Sheet with the latest LOC verification and payment status.",
         "",
         ""
       ],
       "bullets": [],
-      "icon": "mdi:table-edit"
+      "icon": "mdi:clipboard-text"
     },
     {
       "type": "section",
