@@ -1,0 +1,109 @@
+{
+  "date": "07-10-2026",
+  "day": "WEDNESDAY",
+  "title": "DESCRIPTION",
+  "source": "*EXAMINATION WORKS:*\n\n* Uploaded  the student (Birth certificate) on the Eduletics portal.\n* Collected fees from 73 Grade X students and tallied the physical cash.\n* Successfully obtained LOC signatures and verified NO DUES clearance with parents (72) for both Grade X students.\n* Updated the Excel sheets for Grade X.\n\n*OTHER WORK:*\n\n* Prepared the Biometric attendance record of Teaching, Non-Teaching, Admin, Transport, Guard and 4th grade employee given by Principal Sir.\n* Collected homework feedback from the first-floor classes and shared it via a Google Form.\n* Collected notebooks from the following classes:\n* 7 DELTA [ELA]\n* 7 IOTA [SST]\n* 7 OMICRON [SST]\n* 7 SIGMA [ELA]\n* 7 ZETA [ELA]",
+  "rows": [
+    {
+      "type": "section",
+      "cells": [
+        "",
+        "EXAMINATION WORKS:",
+        "",
+        ""
+      ]
+    },
+    {
+      "type": "data",
+      "cells": [
+        "1",
+        "Uploaded  the student (Birth certificate) on the Eduletics portal.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:account-school"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "2",
+        "Collected fees from 73 Grade X students and tallied the physical cash.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:archive-arrow-down"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "3",
+        "Successfully obtained LOC signatures and verified NO DUES clearance with parents (72) for both Grade X students.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:account-school"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "4",
+        "Updated the Excel sheets for Grade X.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:table-edit"
+    },
+    {
+      "type": "section",
+      "cells": [
+        "",
+        "OTHER WORK:",
+        "",
+        ""
+      ]
+    },
+    {
+      "type": "data",
+      "cells": [
+        "1",
+        "Prepared the Biometric attendance record of Teaching, Non-Teaching, Admin, Transport, Guard and 4th grade employee given by Principal Sir.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:fingerprint"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "2",
+        "Collected homework feedback from the first-floor classes and shared it via a Google Form.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:clipboard-text-clock-outline"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "3",
+        "Collected notebooks from the following classes:",
+        "",
+        ""
+      ],
+      "bullets": [
+        "7 DELTA [ELA]",
+        "7 IOTA [SST]",
+        "7 OMICRON [SST]",
+        "7 SIGMA [ELA]",
+        "7 ZETA [ELA]"
+      ],
+      "icon": "mdi:notebook-check-outline"
+    }
+  ]
+}
