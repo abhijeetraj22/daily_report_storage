@@ -3,5 +3,133 @@
   "day": "THURSDAY",
   "title": "DESCRIPTION",
   "source": "*EXAMINATION WORKS:*\n\n* Collected fees from 11 Grade X students and tallied the physical cash.\n* Given the Grade X Marksheet certificate to the student.(ID-1429, 2144)\n* Successfully obtained LOC signatures and verified NO DUES clearance with parents (18) for both Grade X and XII students.\n* Updated the Grade X Excel Sheet with the latest LOC verification and payment status.\n\n*OTHER WORK:*\n\n* Dispersal Duty.\n* Bus Duty & Scanning (R-52)\n* Prepared the Biometric attendance record of Teaching, Non-Teaching, Admin, Transport, Guard and 4th grade employee given by Principal Sir.\n* Collected homework feedback from the first-floor classes and shared it via a Google Form.\n* Collected notebooks from the following classes:\n* 5 IOTA [ELA] \n* 5 OMICRON [HINDI]\n* 6 DELTA [ELA]\n* 6 OMICRON [ELA]\n* 6 SIGMA [ELA]\n* 7 OMICRON [PHYSICS]\n* 7 SIGMA [MATHS]\n* 7 ZETA [MATHS]\n* 7 ZETA [SST]",
-  "rows": []
+  "rows": [
+    {
+      "type": "section",
+      "cells": [
+        "",
+        "EXAMINATION WORKS:",
+        "",
+        ""
+      ]
+    },
+    {
+      "type": "data",
+      "cells": [
+        "1",
+        "Collected fees from 11 Grade X students and tallied the physical cash.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:archive-arrow-down"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "2",
+        "Given the Grade X Marksheet certificate to the student.(ID-1429, 2144)",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:file-chart"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "3",
+        "Successfully obtained LOC signatures and verified NO DUES clearance with parents (18) for both Grade X and XII students.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:account-school"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "4",
+        "Updated the Grade X Excel Sheet with the latest LOC verification and payment status.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:table-edit"
+    },
+    {
+      "type": "section",
+      "cells": [
+        "",
+        "OTHER WORK:",
+        "",
+        ""
+      ]
+    },
+    {
+      "type": "data",
+      "cells": [
+        "1",
+        "Dispersal Duty.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:account-multiple-check"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "2",
+        "Bus Duty & Scanning (R-52)",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:bus"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "3",
+        "Prepared the Biometric attendance record of Teaching, Non-Teaching, Admin, Transport, Guard and 4th grade employee given by Principal Sir.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:fingerprint"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "4",
+        "Collected homework feedback from the first-floor classes and shared it via a Google Form.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:clipboard-text-clock-outline"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "5",
+        "Collected notebooks from the following classes:",
+        "",
+        ""
+      ],
+      "bullets": [
+        "5 IOTA [ELA]",
+        "5 OMICRON [HINDI]",
+        "6 DELTA [ELA]",
+        "6 OMICRON [ELA]",
+        "6 SIGMA [ELA]",
+        "7 OMICRON [PHYSICS]",
+        "7 SIGMA [MATHS]",
+        "7 ZETA [MATHS]",
+        "7 ZETA [SST]"
+      ],
+      "icon": "mdi:notebook-check-outline"
+    }
+  ]
 }
