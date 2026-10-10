@@ -1,0 +1,125 @@
+{
+  "date": "10-10-2026",
+  "day": "SATURDAY",
+  "title": "DESCRIPTION",
+  "source": "*EXAMINATION WORKS:*\n\n* Collected fees from 5 Grade X and 16 Grade XII students and tallied the physical cash.\n* Verified a Transfer certificate.\n* Correction & printed the Transfer certificate (ID-3780)\n* Printed the Transfer certificate (ID-3951, 2144)\n* Final correction the LITERACY, NUMERACY, HINDI, DRAWING, ART & CRAFT & PHONICS question paper for grade K2 for the Post-Mid Term Exam.\n* Successfully obtained LOC signatures and verified NO DUES clearance with parents (23) for both Grade X and XII students.\n* Updated the Grade X Excel Sheet with the latest LOC verification and payment status.\n\n*OTHER WORK:*\n\n* Prepared the Biometric attendance record of Teaching, Non-Teaching, Admin, Transport, Guard and 4th grade employee given by Principal Sir.\n* Collected homework feedback from the first-floor classes and shared it via a Google Form.",
+  "rows": [
+    {
+      "type": "section",
+      "cells": [
+        "",
+        "EXAMINATION WORKS:",
+        "",
+        ""
+      ]
+    },
+    {
+      "type": "data",
+      "cells": [
+        "1",
+        "Collected fees from 5 Grade X and 16 Grade XII students and tallied the physical cash.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:archive-arrow-down"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "2",
+        "Verified a Transfer certificate.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:certificate-outline"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "3",
+        "Correction & printed the Transfer certificate (ID-3780)",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:file-document-edit"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "4",
+        "Printed the Transfer certificate (ID-3951, 2144)",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:certificate"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "5",
+        "Final correction the LITERACY, NUMERACY, HINDI, DRAWING, ART & CRAFT & PHONICS question paper for grade K2 for the Post-Mid Term Exam.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:file-document-edit"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "6",
+        "Successfully obtained LOC signatures and verified NO DUES clearance with parents (23) for both Grade X and XII students.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:account-school"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "7",
+        "Updated the Grade X Excel Sheet with the latest LOC verification and payment status.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:table-edit"
+    },
+    {
+      "type": "section",
+      "cells": [
+        "",
+        "OTHER WORK:",
+        "",
+        ""
+      ]
+    },
+    {
+      "type": "data",
+      "cells": [
+        "1",
+        "Prepared the Biometric attendance record of Teaching, Non-Teaching, Admin, Transport, Guard and 4th grade employee given by Principal Sir.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:fingerprint"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "2",
+        "Collected homework feedback from the first-floor classes and shared it via a Google Form.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:clipboard-text-clock-outline"
+    }
+  ]
+}
