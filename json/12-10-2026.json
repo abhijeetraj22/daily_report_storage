@@ -2,7 +2,7 @@
   "date": "12-10-2026",
   "day": "MONDAY",
   "title": "DESCRIPTION",
-  "source": "*EXAMINATION WORKS:*\n\n* Collected fees from 5 Grade X and 14 XII students and tallied the physical cash.\n* Given the Grade X Marksheet certificate to the student.(ID-3951, 1632, 2120)\n* Successfully obtained LOC signatures and verified NO DUES clearance with parents (19) for both Grade X and XII students.\n* Updated the Grade X Excel Sheet with the latest LOC verification and payment status.\n* Completed the LOC data verification with Anshu Ma'am using the file and LOC checklist (GRADE X Delta & Iota)\n\n*OTHER WORK:*\n\n* Prepared the Biometric attendance record of Teaching, Non-Teaching, Admin, Transport, Guard and 4th grade employee given by Principal Sir.\n* Collected homework feedback from the first-floor classes and shared it via a Google Form.",
+  "source": "*EXAMINATION WORKS:*\n\n* Collected fees from 5 Grade X and 14 XII students and tallied the physical cash.\n* Given the Grade X Marksheet certificate to the student.(ID-3951, 1632, 2120)\n* Successfully obtained LOC signatures and verified NO DUES clearance with parents (18) for both Grade X and XII students.\n* Updated the Grade X Excel Sheet with the latest LOC verification and payment status.\n* Completed the LOC data verification with Anshu Ma'am using the file and LOC checklist (GRADE X Delta & Iota)\n\n*OTHER WORK:*\n\n* Prepared the Biometric attendance record of Teaching, Non-Teaching, Admin, Transport, Guard and 4th grade employee given by Principal Sir.\n* Collected homework feedback from the first-floor classes and shared it via a Google Form.\n* Collected notebooks from the following classes:\n* 5 IOTA [HINDI] \n* 5 OMEGA [ELA] \n* 5 OMICRON [ELA]\n* 5 ZETA [MATHS]\n* 6 ZETA [HINDI] \n* 7 DELTA [MATHS]\n* 7 IOTA [HINDI]\n* 7 IOTA [BIOLOGY]\n* 7 OMICRON [BIOLOGY] \n* 7 ZETA [HINDI]",
   "rows": [
     {
       "type": "section",
@@ -39,7 +39,7 @@
       "type": "data",
       "cells": [
         "3",
-        "Successfully obtained LOC signatures and verified NO DUES clearance with parents (19) for both Grade X and XII students.",
+        "Successfully obtained LOC signatures and verified NO DUES clearance with parents (18) for both Grade X and XII students.",
         "",
         ""
       ],
@@ -98,6 +98,28 @@
       ],
       "bullets": [],
       "icon": "mdi:clipboard-text-clock-outline"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "3",
+        "Collected notebooks from the following classes:",
+        "",
+        ""
+      ],
+      "bullets": [
+        "5 IOTA [HINDI]",
+        "5 OMEGA [ELA]",
+        "5 OMICRON [ELA]",
+        "5 ZETA [MATHS]",
+        "6 ZETA [HINDI]",
+        "7 DELTA [MATHS]",
+        "7 IOTA [HINDI]",
+        "7 IOTA [BIOLOGY]",
+        "7 OMICRON [BIOLOGY]",
+        "7 ZETA [HINDI]"
+      ],
+      "icon": "mdi:notebook-check-outline"
     }
   ]
 }
