@@ -1,0 +1,136 @@
+{
+  "date": "14-10-2026",
+  "day": "WEDNESDAY",
+  "title": "DESCRIPTION",
+  "source": "*EXAMINATION WORKS:*\n\n* Collected fees from 01 Grade X and 01 XII students and tallied the physical cash.\n* Given the Grade X Marksheet certificate to the student.(ID-4846)\n* Successfully obtained LOC signatures and verified NO DUES clearance with parents (2) for both Grade X and XII students.\n* Updated the Grade X Excel Sheet with the latest LOC verification and payment status.\n* Completed the LOC data verification with Anshu Ma'am using the file and LOC checklist (GRADE X IOTA & OMEGA).\n* Completed editing of Grade XI photos with name and date labels; shared with Rajneesh Sir.\n* Exported student data (ID-2395) to Dropbox for the UDISE portal.\n\n\n*OTHER WORK:*\n\n* Prepared the Biometric attendance record of Teaching, Non-Teaching, Admin, Transport, Guard and 4th grade employee given by Principal Sir.\n* Bus Scanning (R-57)\n* Collected homework feedback from the first-floor classes and shared it via a Google Form.",
+  "rows": [
+    {
+      "type": "section",
+      "cells": [
+        "",
+        "EXAMINATION WORKS:",
+        "",
+        ""
+      ]
+    },
+    {
+      "type": "data",
+      "cells": [
+        "1",
+        "Collected fees from 01 Grade X and 01 XII students and tallied the physical cash.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:archive-arrow-down"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "2",
+        "Given the Grade X Marksheet certificate to the student.(ID-4846)",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:file-chart"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "3",
+        "Successfully obtained LOC signatures and verified NO DUES clearance with parents (2) for both Grade X and XII students.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:account-school"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "4",
+        "Updated the Grade X Excel Sheet with the latest LOC verification and payment status.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:table-edit"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "5",
+        "Completed the LOC data verification with Anshu Ma'am using the file and LOC checklist (GRADE X IOTA & OMEGA).",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:clipboard-check"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "6",
+        "Completed editing of Grade XI photos with name and date labels; shared with Rajneesh Sir.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:clipboard-text"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "7",
+        "Exported student data (ID-2395) to Dropbox for the UDISE portal.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:account-school"
+    },
+    {
+      "type": "section",
+      "cells": [
+        "",
+        "OTHER WORK:",
+        "",
+        ""
+      ]
+    },
+    {
+      "type": "data",
+      "cells": [
+        "1",
+        "Prepared the Biometric attendance record of Teaching, Non-Teaching, Admin, Transport, Guard and 4th grade employee given by Principal Sir.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:fingerprint"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "2",
+        "Bus Scanning (R-57)",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:bus"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "3",
+        "Collected homework feedback from the first-floor classes and shared it via a Google Form.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:clipboard-text-clock-outline"
+    }
+  ]
+}
