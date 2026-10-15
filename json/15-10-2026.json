@@ -1,0 +1,103 @@
+{
+  "date": "15-10-2026",
+  "day": "THURSDAY",
+  "title": "DESCRIPTION",
+  "source": "*EXAMINATION WORKS:*\n\n* Collected fees from 04 Grade X students and tallied the physical cash.\n* Successfully obtained LOC signatures and verified NO DUES clearance with parents (4) for both Grade X students.\n* Updated the Grade X Excel Sheet with the latest LOC verification and payment status.\n* Re-verification of all listed subject changes, student/parent names, and deleted IDs has been completed in coordination with Vishal Sir.\n\n*OTHER WORK:*\n\n* Prepared the Biometric attendance record of Teaching, Non-Teaching, Admin, Transport, Guard and 4th grade employee given by Principal Sir.\n* Collected homework feedback from the first-floor classes and shared it via a Google Form.\n* Segregated and arranged the attendance sheets in the file.",
+  "rows": [
+    {
+      "type": "section",
+      "cells": [
+        "",
+        "EXAMINATION WORKS:",
+        "",
+        ""
+      ]
+    },
+    {
+      "type": "data",
+      "cells": [
+        "1",
+        "Collected fees from 04 Grade X students and tallied the physical cash.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:archive-arrow-down"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "2",
+        "Successfully obtained LOC signatures and verified NO DUES clearance with parents (4) for both Grade X students.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:account-school"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "3",
+        "Updated the Grade X Excel Sheet with the latest LOC verification and payment status.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:table-edit"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "4",
+        "Re-verification of all listed subject changes, student/parent names, and deleted IDs has been completed in coordination with Vishal Sir.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:account-school"
+    },
+    {
+      "type": "section",
+      "cells": [
+        "",
+        "OTHER WORK:",
+        "",
+        ""
+      ]
+    },
+    {
+      "type": "data",
+      "cells": [
+        "1",
+        "Prepared the Biometric attendance record of Teaching, Non-Teaching, Admin, Transport, Guard and 4th grade employee given by Principal Sir.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:fingerprint"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "2",
+        "Collected homework feedback from the first-floor classes and shared it via a Google Form.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:clipboard-text-clock-outline"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "3",
+        "Segregated and arranged the attendance sheets in the file.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:calendar-check"
+    }
+  ]
+}
