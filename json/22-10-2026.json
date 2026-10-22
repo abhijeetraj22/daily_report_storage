@@ -1,0 +1,112 @@
+{
+  "date": "22-10-2026",
+  "day": "THURSDAY",
+  "title": "DESCRIPTION",
+  "source": "*EXAMINATION WORKS:*\n\n* Collected fees from 01 Grade X students and tallied the physical cash.\n* Successfully obtained LOC signatures and verified NO DUES clearance with parent for Grade X students.\n* Second correction the LITERACY, NUMERACY, HINDI, DRAW, ART & CRAFT & PHONICS question paper for grade NUR to K2 for the Post-Mid Term Exam.\n* Second correction the ELA, EVS, MATHS & HINDI question paper for grade 1 to 4 for the Post-Mid Term Exam.\n* Given the Grade X Marksheet certificate to the student.(ID-2825)\n\n*OTHER WORK*\n\n* Prepared the Biometric attendance record of Teaching, Non-Teaching, Admin, Transport, Guard and 4th grade employee given by Principal Sir.\n* Collected notebooks from the following classes:\n* 5 IOTA [ICT]\n* 5 OMICRON [ICT]\n* 5 ZETA [ELA] \n* 6 DELTA [ICT]\n* 6 IOTA [ELA]\n* 6 IOTA [ICT]\n* 6 OMICRON [ICT]\n* 7 ZETA [CHEMISTRY]",
+  "rows": [
+    {
+      "type": "section",
+      "cells": [
+        "",
+        "EXAMINATION WORKS:",
+        "",
+        ""
+      ]
+    },
+    {
+      "type": "data",
+      "cells": [
+        "1",
+        "Collected fees from 01 Grade X students and tallied the physical cash.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:archive-arrow-down"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "2",
+        "Successfully obtained LOC signatures and verified NO DUES clearance with parent for Grade X students.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:account-school"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "3",
+        "Second correction the LITERACY, NUMERACY, HINDI, DRAW, ART & CRAFT & PHONICS question paper for grade NUR to K2 for the Post-Mid Term Exam.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:file-document-edit"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "4",
+        "Second correction the ELA, EVS, MATHS & HINDI question paper for grade 1 to 4 for the Post-Mid Term Exam.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:file-document-edit"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "5",
+        "Given the Grade X Marksheet certificate to the student.(ID-2825)",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:file-chart"
+    },
+    {
+      "type": "section",
+      "cells": [
+        "",
+        "OTHER WORK",
+        "",
+        ""
+      ]
+    },
+    {
+      "type": "data",
+      "cells": [
+        "1",
+        "Prepared the Biometric attendance record of Teaching, Non-Teaching, Admin, Transport, Guard and 4th grade employee given by Principal Sir.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:fingerprint"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "2",
+        "Collected notebooks from the following classes:",
+        "",
+        ""
+      ],
+      "bullets": [
+        "5 IOTA [ICT]",
+        "5 OMICRON [ICT]",
+        "5 ZETA [ELA]",
+        "6 DELTA [ICT]",
+        "6 IOTA [ELA]",
+        "6 IOTA [ICT]",
+        "6 OMICRON [ICT]",
+        "7 ZETA [CHEMISTRY]"
+      ],
+      "icon": "mdi:notebook-check-outline"
+    }
+  ]
+}
