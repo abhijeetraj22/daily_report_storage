@@ -1,0 +1,170 @@
+{
+  "date": "23-10-2026",
+  "day": "FRIDAY",
+  "title": "DESCRIPTION",
+  "source": "*EXAMINATION WORKS:*\n\n* Verified the few Transfer certificate.\n* Correction & printed the Transfer certificate (ID-2825, 5674)\n* Correction & printed the Grade IX Final term Marksheet certificate (ID-2268)\n* Final correction the ELA, EVS & HINDI question paper for grade 1 to 4 (DAY-1) for the Post-Mid Term Exam with Rajneesh sir\n* Printed the HINDI question paper for grade1 for the POST-MID-TERM Exams.\n* Prepared the students strength data with the total student count.\n* Verified the received documents of 50 students against the register file; verification of the remaining documents is in progress.\n* Stapled the SST question paper for grade 10 for the Dream-Big Exams.\n\n*OTHER WORK*\n\n* Dispersal Duty.\n* Bus Duty & Scanning (R-52)\n* Prepared the Biometric attendance record of Teaching, Non-Teaching, Admin, Transport, Guard and 4th grade employee given by Principal Sir.\n* Collected notebooks/worksheet from the following classes:\n* 5 DELTA [ELA (WORKSHEET)]\n* 5 IOTA [ELA (WORKSHEET)]\n* 5 OMEGA [ELA (WORKSHEET)]\n* 5 OMICRON [ELA (WORKSHEET)]\n* 5 SIGMA [ELA (WORKSHEET)]\n* 5 ZETA [ELA (WORKSHEET)]\n* 6 ZETA [ICT - NOTEBOOK]\n* 7 DELTA [ICT - NOTEBOOK]\n* 7 DELTA [ELA (WORKSHEET)]\n* 7 IOTA [ICT - NOTEBOOK]\n* 7 IOTA [ELA (WORKSHEET)]",
+  "rows": [
+    {
+      "type": "section",
+      "cells": [
+        "",
+        "EXAMINATION WORKS:",
+        "",
+        ""
+      ]
+    },
+    {
+      "type": "data",
+      "cells": [
+        "1",
+        "Verified the few Transfer certificate.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:file-certificate-outline"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "2",
+        "Correction & printed the Transfer certificate (ID-2825, 5674)",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:file-document-edit"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "3",
+        "Correction & printed the Grade IX Final term Marksheet certificate (ID-2268)",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:file-chart"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "4",
+        "Final correction the ELA, EVS & HINDI question paper for grade 1 to 4 (DAY-1) for the Post-Mid Term Exam with Rajneesh sir",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:file-document-edit"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "5",
+        "Printed the HINDI question paper for grade1 for the POST-MID-TERM Exams.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:printer"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "6",
+        "Prepared the students strength data with the total student count.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:account-school"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "7",
+        "Verified the received documents of 50 students against the register file; verification of the remaining documents is in progress.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:account-school"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "8",
+        "Stapled the SST question paper for grade 10 for the Dream-Big Exams.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:paperclip"
+    },
+    {
+      "type": "section",
+      "cells": [
+        "",
+        "OTHER WORK",
+        "",
+        ""
+      ]
+    },
+    {
+      "type": "data",
+      "cells": [
+        "1",
+        "Dispersal Duty.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:account-multiple-check"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "2",
+        "Bus Duty & Scanning (R-52)",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:bus"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "3",
+        "Prepared the Biometric attendance record of Teaching, Non-Teaching, Admin, Transport, Guard and 4th grade employee given by Principal Sir.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:fingerprint"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "4",
+        "Collected notebooks/worksheet from the following classes:",
+        "",
+        ""
+      ],
+      "bullets": [
+        "5 DELTA [ELA (WORKSHEET)]",
+        "5 IOTA [ELA (WORKSHEET)]",
+        "5 OMEGA [ELA (WORKSHEET)]",
+        "5 OMICRON [ELA (WORKSHEET)]",
+        "5 SIGMA [ELA (WORKSHEET)]",
+        "5 ZETA [ELA (WORKSHEET)]",
+        "6 ZETA [ICT - NOTEBOOK]",
+        "7 DELTA [ICT - NOTEBOOK]",
+        "7 DELTA [ELA (WORKSHEET)]",
+        "7 IOTA [ICT - NOTEBOOK]",
+        "7 IOTA [ELA (WORKSHEET)]"
+      ],
+      "icon": "mdi:archive-arrow-down"
+    }
+  ]
+}
