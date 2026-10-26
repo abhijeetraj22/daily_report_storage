@@ -1,0 +1,114 @@
+{
+  "date": "26-10-2026",
+  "day": "MONDAY",
+  "title": "DESCRIPTION",
+  "source": "*EXAMINATION WORKS:*\n\n* Stapled the SST question paper for grade 10 for the Dream Big Exams.\n* Prepared & printed the Grade and Section-wise seating plan for the POST Mid-Term Examinations and given it to Vishal Sir for verification.\n* Printed the G1-MATHS, G2-MATHS, G3-HINDI & G4-MATHS question paper for the POST-MID-TERM Exams.\n* Stapled the G1-HINDI, G3-EVS & G4-ELA question paper for the POST MID TERM Exams.\n* Verified the received documents of 24 students against the register file.\n\n*OTHER WORK:*\n\n* Dispersal Duty.\n* Bus Duty & Scanning (R-53) | 01:50 pm to 03:35 pm\n* Prepared the Biometric attendance record of Teaching, Non-Teaching, Admin, Transport, Guard and 4th grade employee given by Principal Sir.",
+  "rows": [
+    {
+      "type": "section",
+      "cells": [
+        "",
+        "EXAMINATION WORKS:",
+        "",
+        ""
+      ]
+    },
+    {
+      "type": "data",
+      "cells": [
+        "1",
+        "Stapled the SST question paper for grade 10 for the Dream Big Exams.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:paperclip"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "2",
+        "Prepared & printed the Grade and Section-wise seating plan for the POST Mid-Term Examinations and given it to Vishal Sir for verification.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:printer"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "3",
+        "Printed the G1-MATHS, G2-MATHS, G3-HINDI & G4-MATHS question paper for the POST-MID-TERM Exams.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:printer"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "4",
+        "Stapled the G1-HINDI, G3-EVS & G4-ELA question paper for the POST MID TERM Exams.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:paperclip"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "5",
+        "Verified the received documents of 24 students against the register file.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:account-school"
+    },
+    {
+      "type": "section",
+      "cells": [
+        "",
+        "OTHER WORK:",
+        "",
+        ""
+      ]
+    },
+    {
+      "type": "data",
+      "cells": [
+        "1",
+        "Dispersal Duty.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:account-multiple-check"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "2",
+        "Bus Duty & Scanning (R-53)",
+        "",
+        "01:50 pm to 03:35 pm"
+      ],
+      "bullets": [],
+      "icon": "mdi:bus"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "3",
+        "Prepared the Biometric attendance record of Teaching, Non-Teaching, Admin, Transport, Guard and 4th grade employee given by Principal Sir.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:fingerprint"
+    }
+  ]
+}
