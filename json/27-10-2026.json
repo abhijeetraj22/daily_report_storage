@@ -1,0 +1,125 @@
+{
+  "date": "27-10-2026",
+  "day": "TUESDAY",
+  "title": "DESCRIPTION",
+  "source": "*EXAMINATION WORKS:*\n\n* Stapled the SST question paper for grade 10 for the Dream Big Exams.\n* Verified a Transfer certificate.\n* Correction & printed the Transfer certificate (ID-1477)\n* Given the Grade X Marksheet certificate to the student.(ID-2591, 1477, 5245)\n* Printed the G1-EVS, G2-HINDI, G3-ELA & G4-EVS question paper for the POST-MID-TERM Exams.\n* Bundling the GRADE 1 , 2, 3, 4, 9 & 12 POST Mid-Term Exam Q&A (DAY-01Exams) with Rajneesh sir.\n* Stapled the G2-MATHS question paper for the POST MID TERM Exams.\n\n*OTHER WORK:*\n\n* Dispersal Duty.\n* Prepared the Biometric attendance record of Teaching, Non-Teaching, Admin, Transport, Guard and 4th grade employee given by Principal Sir.",
+  "rows": [
+    {
+      "type": "section",
+      "cells": [
+        "",
+        "EXAMINATION WORKS:",
+        "",
+        ""
+      ]
+    },
+    {
+      "type": "data",
+      "cells": [
+        "1",
+        "Stapled the SST question paper for grade 10 for the Dream Big Exams.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:paperclip"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "2",
+        "Verified a Transfer certificate.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:certificate-outline"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "3",
+        "Correction & printed the Transfer certificate (ID-1477)",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:file-document-edit"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "4",
+        "Given the Grade X Marksheet certificate to the student.(ID-2591, 1477, 5245)",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:file-chart"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "5",
+        "Printed the G1-EVS, G2-HINDI, G3-ELA & G4-EVS question paper for the POST-MID-TERM Exams.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:printer"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "6",
+        "Bundling the GRADE 1 , 2, 3, 4, 9 & 12 POST Mid-Term Exam Q&A (DAY-01Exams) with Rajneesh sir.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:file-document-edit"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "7",
+        "Stapled the G2-MATHS question paper for the POST MID TERM Exams.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:paperclip"
+    },
+    {
+      "type": "section",
+      "cells": [
+        "",
+        "OTHER WORK:",
+        "",
+        ""
+      ]
+    },
+    {
+      "type": "data",
+      "cells": [
+        "1",
+        "Dispersal Duty.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:account-multiple-check"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "2",
+        "Prepared the Biometric attendance record of Teaching, Non-Teaching, Admin, Transport, Guard and 4th grade employee given by Principal Sir.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:fingerprint"
+    }
+  ]
+}
