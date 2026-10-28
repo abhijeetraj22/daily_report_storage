@@ -1,0 +1,103 @@
+{
+  "date": "28-10-2026",
+  "day": "WEDNESDAY",
+  "title": "DESCRIPTION",
+  "source": "*EXAMINATION WORKS:*\n\n* Verified a Transfer certificate.\n* Correction & printed the Transfer certificate (ID-2822)\n* Prepared and printed the attendance sheets for Grades NUR to 11 for the Post Mid-Term Examinations.\n* Printed the G1-ELA G2-EVS, G3-MATHS, G4-HINDI, K1-NUMERACY & NUR-LITERACY question paper for the POST-MID-TERM Exams.\n* Stapled the G1-MATHS, G3-HINDI, G4-MATHS, K1-NUMERACY, NUR- LITERACY, K1- LITERACY & K2-NUMERACY question paper for the POST MID TERM Exams.\n* Pasted the door stickers for Grades 3 to 11 in the classrooms for the Post-Mid-term Examinations.\n\n*OTHER WORK:*\n\n* Prepared the Biometric attendance record of Teaching, Non-Teaching, Admin, Transport, Guard and 4th grade employee given by Principal Sir.",
+  "rows": [
+    {
+      "type": "section",
+      "cells": [
+        "",
+        "EXAMINATION WORKS:",
+        "",
+        ""
+      ]
+    },
+    {
+      "type": "data",
+      "cells": [
+        "1",
+        "Verified a Transfer certificate.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:certificate-outline"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "2",
+        "Correction & printed the Transfer certificate (ID-2822)",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:file-document-edit"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "3",
+        "Prepared and printed the attendance sheets for Grades NUR to 11 for the Post Mid-Term Examinations.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:calendar-check"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "4",
+        "Printed the G1-ELA G2-EVS, G3-MATHS, G4-HINDI, K1-NUMERACY & NUR-LITERACY question paper for the POST-MID-TERM Exams.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:printer"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "5",
+        "Stapled the G1-MATHS, G3-HINDI, G4-MATHS, K1-NUMERACY, NUR- LITERACY, K1- LITERACY & K2-NUMERACY question paper for the POST MID TERM Exams.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:paperclip"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "6",
+        "Pasted the door stickers for Grades 3 to 11 in the classrooms for the Post-Mid-term Examinations.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:file-document-edit"
+    },
+    {
+      "type": "section",
+      "cells": [
+        "",
+        "OTHER WORK:",
+        "",
+        ""
+      ]
+    },
+    {
+      "type": "data",
+      "cells": [
+        "1",
+        "Prepared the Biometric attendance record of Teaching, Non-Teaching, Admin, Transport, Guard and 4th grade employee given by Principal Sir.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:fingerprint"
+    }
+  ]
+}
