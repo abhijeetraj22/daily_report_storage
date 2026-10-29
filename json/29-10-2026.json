@@ -1,0 +1,114 @@
+{
+  "date": "29-10-2026",
+  "day": "THURSDAY",
+  "title": "DESCRIPTION",
+  "source": "*Daily Report*\nDate: 29.10.2026\n\n*EXAMINATION WORKS:*\n\n* Distributed the answer-copy bundles to the teacher Grade - NUR to 11 for the Post Mid-Term Exam.\n* Prepared and printed the collection sheets for Grades NUR to 11 for the Post Mid-Term Examinations.\n* Collected & Distributed the answer-copy bundles from the teachers.\n* Prepared and printed the attendance sheets for Grades NUR to 11 for the Post Mid-Term Examinations.\n* Printed the DRAWING and ART & CRAFT question paper for Grade NUR to K2 for the POST-MID-TERM Exams.\n* Bundling the POST Mid-Term Exam Q&A (DAY-03 Exams) with team.\n* Verified the received documents of 28 students against the register files.\n\n*OTHER WORK*\n\n* Prepared the Biometric attendance record of Teaching, Non-Teaching, Admin, Transport, Guard and 4th grade employee given by Principal Sir.",
+  "rows": [
+    {
+      "type": "section",
+      "cells": [
+        "",
+        "EXAMINATION WORKS:",
+        "",
+        ""
+      ]
+    },
+    {
+      "type": "data",
+      "cells": [
+        "1",
+        "Distributed the answer-copy bundles to the teacher Grade - NUR to 11 for the Post Mid-Term Exam.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:account-multiple"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "2",
+        "Prepared and printed the collection sheets for Grades NUR to 11 for the Post Mid-Term Examinations.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:archive-arrow-down"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "3",
+        "Collected & Distributed the answer-copy bundles from the teachers.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:account-multiple"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "4",
+        "Prepared and printed the attendance sheets for Grades NUR to 11 for the Post Mid-Term Examinations.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:calendar-check"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "5",
+        "Printed the DRAWING and ART & CRAFT question paper for Grade NUR to K2 for the POST-MID-TERM Exams.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:printer"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "6",
+        "Bundling the POST Mid-Term Exam Q&A (DAY-03 Exams) with team.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:file-document-edit"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "7",
+        "Verified the received documents of 28 students against the register files.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:account-school"
+    },
+    {
+      "type": "section",
+      "cells": [
+        "",
+        "OTHER WORK",
+        "",
+        ""
+      ]
+    },
+    {
+      "type": "data",
+      "cells": [
+        "1",
+        "Prepared the Biometric attendance record of Teaching, Non-Teaching, Admin, Transport, Guard and 4th grade employee given by Principal Sir.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:fingerprint"
+    }
+  ]
+}
