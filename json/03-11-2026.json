@@ -1,0 +1,114 @@
+{
+  "date": "03-11-2026",
+  "day": "TUESDAY",
+  "title": "DESCRIPTION",
+  "source": "*EXAMINATION WORKS:*\n\n* Distributed the answer-copy bundles for the Post Mid-Term Exam.\n* Stapled the G5-SST & G7-SANSKRIT question paper for the POST-MID-TERM Exams.\n* Prepared and updated the Google sheet to reflect the submission status of the Post Mid term Bundle.\n* Collected & Distributed the answer-copy bundles from the teachers.\n* Given the Grade X Marksheet certificate to the student. (ID-1462, 1326)\n* Bundling the Grade 5 to 8 for POST Mid-Term Exam Q&A (DAY-06 Exams) with Vivek Sir.\n* Formatted the SCIENCE & HINDI question paper for grade X for the Pre-Board Exams.\n\n\n*OTHER WORK:*\n\n* Prepared the Biometric attendance record of Teaching, Non-Teaching, Admin, Transport, Guard and 4th grade employee given by Principal Sir.",
+  "rows": [
+    {
+      "type": "section",
+      "cells": [
+        "",
+        "EXAMINATION WORKS:",
+        "",
+        ""
+      ]
+    },
+    {
+      "type": "data",
+      "cells": [
+        "1",
+        "Distributed the answer-copy bundles for the Post Mid-Term Exam.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:account-multiple"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "2",
+        "Stapled the G5-SST & G7-SANSKRIT question paper for the POST-MID-TERM Exams.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:paperclip"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "3",
+        "Prepared and updated the Google sheet to reflect the submission status of the Post Mid term Bundle.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:google-spreadsheet"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "4",
+        "Collected & Distributed the answer-copy bundles from the teachers.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:account-multiple"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "5",
+        "Given the Grade X Marksheet certificate to the student. (ID-1462, 1326)",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:file-chart"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "6",
+        "Bundling the Grade 5 to 8 for POST Mid-Term Exam Q&A (DAY-06 Exams) with Vivek Sir.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:file-document-edit"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "7",
+        "Formatted the SCIENCE & HINDI question paper for grade X for the Pre-Board Exams.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:file-document-edit"
+    },
+    {
+      "type": "section",
+      "cells": [
+        "",
+        "OTHER WORK:",
+        "",
+        ""
+      ]
+    },
+    {
+      "type": "data",
+      "cells": [
+        "1",
+        "Prepared the Biometric attendance record of Teaching, Non-Teaching, Admin, Transport, Guard and 4th grade employee given by Principal Sir.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:fingerprint"
+    }
+  ]
+}
