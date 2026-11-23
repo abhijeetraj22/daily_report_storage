@@ -1,0 +1,136 @@
+{
+  "date": "23-11-2026",
+  "day": "MONDAY",
+  "title": "DESCRIPTION",
+  "source": "*EXAMINATION WORKS:*\n\n* Stapled the G-X SCIENCE  question paper for the Dream Big exams.\n* Distributed & collected the answer-copy bundles for the Dream Big Exam.\n* Verified the answer bundles status & updated the Google sheet to reflect the submission status of the Post Mid term Bundle.\n* Verified a Transfer certificate.\n* Correction & printed the Transfer certificate (ID-2181).\n* Prepared the Admit card for Grade-X for the Pre-Board-I Exams, as given instruction by Rajneesh sir\n\n\n*OTHER WORK:*\n\n* Dispersal Duty.\n* Bus Duty & Scanning Duty (R-64) | 02:30pm to 04:46pm\n* Collected homework feedback from the first-floor classes\n* Prepared the Biometric attendance(Day-2) record of Teaching, Non-Teaching, Admin, Transport, Guard and 4th grade employee given by Principal Sir.",
+  "rows": [
+    {
+      "type": "section",
+      "cells": [
+        "",
+        "EXAMINATION WORKS:",
+        "",
+        ""
+      ]
+    },
+    {
+      "type": "data",
+      "cells": [
+        "1",
+        "Stapled the G-X SCIENCE  question paper for the Dream Big exams.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:paperclip"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "2",
+        "Distributed & collected the answer-copy bundles for the Dream Big Exam.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:account-multiple"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "3",
+        "Verified the answer bundles status & updated the Google sheet to reflect the submission status of the Post Mid term Bundle.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:google-spreadsheet"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "4",
+        "Verified a Transfer certificate.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:certificate-outline"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "5",
+        "Correction & printed the Transfer certificate (ID-2181).",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:file-document-edit"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "6",
+        "Prepared the Admit card for Grade-X for the Pre-Board-I Exams, as given instruction by Rajneesh sir",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:file-document-edit"
+    },
+    {
+      "type": "section",
+      "cells": [
+        "",
+        "OTHER WORK:",
+        "",
+        ""
+      ]
+    },
+    {
+      "type": "data",
+      "cells": [
+        "1",
+        "Dispersal Duty.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:account-multiple-check"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "2",
+        "Bus Duty & Scanning Duty (R-64)",
+        "",
+        "02:30pm to 04:46pm"
+      ],
+      "bullets": [],
+      "icon": "mdi:bus"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "3",
+        "Collected homework feedback from the first-floor classes",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:message-text"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "4",
+        "Prepared the Biometric attendance(Day-2) record of Teaching, Non-Teaching, Admin, Transport, Guard and 4th grade employee given by Principal Sir.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:fingerprint"
+    }
+  ]
+}
