@@ -1,0 +1,136 @@
+{
+  "date": "24-11-2026",
+  "day": "TUESDAY",
+  "title": "DESCRIPTION",
+  "source": "*EXAMINATION WORKS:*\n\n* Prepared the Admit card for Grade-X (EBS) for the Pre-Board-I Exams, as given instruction by Rajneesh sir\n* Printed and arranged the admit cards by grade and section for PB Exams-I\n* Segregate the Admit Cards of Fee Defaulters and Attendance Defaulters for Pre-Board Examination–I.\n* Segregate the POMT exam answer sheets for Grades 1 to 11, grade-wise and section-wise, with the help of Rinki Di.\n* Imported a student from Dropbox into the Udise portal. (Id - 6807)\n* Provided the student's PEN number.\n\n\n*OTHER WORK:*\n\n* Dispersal Duty.\n* Bus Scanning Duty(R-62)\n* Collected homework feedback from the first-floor classes.\n* Prepared the Biometric attendance(Day-2) record of Teaching, Non-Teaching, Admin, Transport, Guard and 4th grade employee given by Principal Sir.",
+  "rows": [
+    {
+      "type": "section",
+      "cells": [
+        "",
+        "EXAMINATION WORKS:",
+        "",
+        ""
+      ]
+    },
+    {
+      "type": "data",
+      "cells": [
+        "1",
+        "Prepared the Admit card for Grade-X (EBS) for the Pre-Board-I Exams, as given instruction by Rajneesh sir",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:file-document-edit"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "2",
+        "Printed and arranged the admit cards by grade and section for PB Exams-I",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:printer"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "3",
+        "Segregate the Admit Cards of Fee Defaulters and Attendance Defaulters for Pre-Board Examination–I.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:calendar-check"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "4",
+        "Segregate the POMT exam answer sheets for Grades 1 to 11, grade-wise and section-wise, with the help of Rinki Di.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:file-document-edit"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "5",
+        "Imported a student from Dropbox into the Udise portal. (Id - 6807)",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:account-school"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "6",
+        "Provided the student's PEN number.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:account-school"
+    },
+    {
+      "type": "section",
+      "cells": [
+        "",
+        "OTHER WORK:",
+        "",
+        ""
+      ]
+    },
+    {
+      "type": "data",
+      "cells": [
+        "1",
+        "Dispersal Duty.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:account-multiple-check"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "2",
+        "Bus Scanning Duty(R-62)",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:qrcode-scan"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "3",
+        "Collected homework feedback from the first-floor classes.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:message-text"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "4",
+        "Prepared the Biometric attendance(Day-2) record of Teaching, Non-Teaching, Admin, Transport, Guard and 4th grade employee given by Principal Sir.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:fingerprint"
+    }
+  ]
+}
