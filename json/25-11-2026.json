@@ -1,0 +1,158 @@
+{
+  "date": "25-11-2026",
+  "day": "WEDNESDAY",
+  "title": "DESCRIPTION",
+  "source": "*Daily Report*\nDate: 25.11.2026\n\n*EXAMINATION WORKS:*\n\n* Prepared the Admit card for Grade-X (ID-2397) for the Pre-Board-I Exams.\n* Stapled the Aryabhatt Ganit Challenge question booklet paper.\n* Distributed the answer-copy bundles to the teacher Grade - 1 to 8 for the Post Mid-Term Exam PTM.\n* Bundling the Aryabhatt Ganit Challenge booklet(Q/A).\n* Distributed & collected the Aryabhatt Ganit Challenge booklet(Q/A) Examination.\n* Distributed the Admit Cards for Pre-Board Examination – I to the teacher (Grade-X & XII).\n* Final correction the MATHS SET-B question paper for Grade X for the Pre-Board Exam.\n* Printed the MATHS SET-B question paper for Grade X for the Pre-Board Exam.\n\n*OTHER WORK:*\n\n* Dispersal Duty.\n* Bus Scanning Duty (R-38)\n* Collected homework feedback from the first-floor classes.\n* Prepared the Biometric attendance record of Teaching, Non-Teaching, Admin, Transport, Guard and 4th grade employee given by Principal Sir.",
+  "rows": [
+    {
+      "type": "section",
+      "cells": [
+        "",
+        "EXAMINATION WORKS:",
+        "",
+        ""
+      ]
+    },
+    {
+      "type": "data",
+      "cells": [
+        "1",
+        "Prepared the Admit card for Grade-X (ID-2397) for the Pre-Board-I Exams.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:file-document-edit"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "2",
+        "Stapled the Aryabhatt Ganit Challenge question booklet paper.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:paperclip"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "3",
+        "Distributed the answer-copy bundles to the teacher Grade - 1 to 8 for the Post Mid-Term Exam PTM.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:account-multiple"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "4",
+        "Bundling the Aryabhatt Ganit Challenge booklet(Q/A).",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:clipboard-text"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "5",
+        "Distributed & collected the Aryabhatt Ganit Challenge booklet(Q/A) Examination.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:account-multiple"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "6",
+        "Distributed the Admit Cards for Pre-Board Examination – I to the teacher (Grade-X & XII).",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:account-multiple"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "7",
+        "Final correction the MATHS SET-B question paper for Grade X for the Pre-Board Exam.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:file-document-edit"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "8",
+        "Printed the MATHS SET-B question paper for Grade X for the Pre-Board Exam.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:printer"
+    },
+    {
+      "type": "section",
+      "cells": [
+        "",
+        "OTHER WORK:",
+        "",
+        ""
+      ]
+    },
+    {
+      "type": "data",
+      "cells": [
+        "1",
+        "Dispersal Duty.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:account-multiple-check"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "2",
+        "Bus Scanning Duty (R-38)",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:qrcode-scan"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "3",
+        "Collected homework feedback from the first-floor classes.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:message-text"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "4",
+        "Prepared the Biometric attendance record of Teaching, Non-Teaching, Admin, Transport, Guard and 4th grade employee given by Principal Sir.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:fingerprint"
+    }
+  ]
+}
