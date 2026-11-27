@@ -1,0 +1,114 @@
+{
+  "date": "27-11-2026",
+  "day": "FRIDAY",
+  "title": "DESCRIPTION",
+  "source": "*Daily Report*\nDate: 27.11.2026\n\n*EXAMINATION WORKS:*\n\n* Prepared the attendance defaulters’ sheet for Grade IX as instructed by Rajneesh Sir.\n* Updated & printed the Admit card for Grade-X (ID-3714) for the Pre-Board-I Exams.\n* Uploaded  the student's (Aadhar card) on the Eduletics portal.(ID-3469)\n* Updated the student's (M_NAME & DOB) on the Eduletics portal.(ID-3714 & 3469 )\n* Distributed the admit cards of attendance defaulters to their parents.\nDistributed the answer-copy bundles to the teacher Grade - IX for the Post Mid-Term Exam PTM.\n* Imported a student from Dropbox into the Udise portal. (Id - 6076 & 5806)\n* Updated the students’ data (EP and FP) for Grade 1-A (13 student's) & Grade 1-B (17 student's) in the UDISE+ portal.\n\n*OTHER WORK:*\n\n* Prepared the Biometric attendance record of Teaching, Non-Teaching, Admin, Transport, Guard and 4th grade employee given by Principal Sir.",
+  "rows": [
+    {
+      "type": "section",
+      "cells": [
+        "",
+        "EXAMINATION WORKS:",
+        "",
+        ""
+      ]
+    },
+    {
+      "type": "data",
+      "cells": [
+        "1",
+        "Prepared the attendance defaulters’ sheet for Grade IX as instructed by Rajneesh Sir.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:calendar-check"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "2",
+        "Updated & printed the Admit card for Grade-X (ID-3714) for the Pre-Board-I Exams.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:printer"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "3",
+        "Uploaded  the student's (Aadhar card) on the Eduletics portal.(ID-3469)",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:account-school"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "4",
+        "Updated the student's (M_NAME & DOB) on the Eduletics portal.(ID-3714 & 3469 )",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:account-school"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "5",
+        "Distributed the admit cards of attendance defaulters to their parents.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:account-multiple"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "6",
+        "Imported a student from Dropbox into the Udise portal. (Id - 6076 & 5806)",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:account-school"
+    },
+    {
+      "type": "data",
+      "cells": [
+        "7",
+        "Updated the students’ data (EP and FP) for Grade 1-A (13 student's) & Grade 1-B (17 student's) in the UDISE+ portal.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:account-school"
+    },
+    {
+      "type": "section",
+      "cells": [
+        "",
+        "OTHER WORK:",
+        "",
+        ""
+      ]
+    },
+    {
+      "type": "data",
+      "cells": [
+        "1",
+        "Prepared the Biometric attendance record of Teaching, Non-Teaching, Admin, Transport, Guard and 4th grade employee given by Principal Sir.",
+        "",
+        ""
+      ],
+      "bullets": [],
+      "icon": "mdi:fingerprint"
+    }
+  ]
+}
